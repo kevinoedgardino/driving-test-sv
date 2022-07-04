@@ -120,7 +120,7 @@
         <p v-if="!question.image" class="question d-flex m-auto mb-4">{{ question.id }}. {{ question.title }}</p>
         <p v-else class="question-sign m-auto mb-4">
             <span>{{ question.id }}. {{ question.title }}</span>
-            <img :src="`/signs/${question.image}`" class="sign">
+            <img :src="`/driving-test-sv/signs/${question.image}`" class="sign">
         </p>
         <div class="options">
             <div v-for="(value, key) in question.options" :key="key">
