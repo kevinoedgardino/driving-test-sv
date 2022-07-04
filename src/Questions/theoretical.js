@@ -59,7 +59,7 @@ export const questions = [
   },
   {
     id: 8,
-    title: '¿Que es una calzada?',
+    title: '¿Que es calzada?',
     options: {
       correct: 'Zona de la carretera destinada a la circulación de los vehículos',
       wrong1: 'Zona elevada de la carretera'
@@ -112,7 +112,7 @@ export const questions = [
     title: '¿Cuáles son los vehículos de alquiler?',
     options: {
       wrong1: 'Son los vehículos pesados',
-      correct: 'Son aquellos vehículos livianos de conductores autorizados para el transporte reenumerado de personas'
+      correct: 'Son aquellos vehículos livianos de conductores autorizados para el transporte remunerado de personas'
     }
   },
   {
@@ -1527,18 +1527,20 @@ export const questionsSecondPart = [
   },
   {
     id: 83,
-    title: 'Para la mejor circulación, los conductores de vehículos automotores, harán las señales siguientes para indicar modificación de carril o giro:',
+    title: 'Para la mejor circulación, los conductores de vehículos automotores, harán las señales siguientes para indicar modificación de carril, viraje o giro, durante el día y la noche, para virar a la derecha harán lo siguiente:',
     options: {
       correct: 'No deberá rebasar el eje imaginario de la vía, indicando dicha maniobra con la luz direccional del costado derecho',
-      wrong1: 'Pitar, moverse a la derecha y girar'
+      wrong1: 'Pitar, moverse a la derecha y girar',
+      wrong2: 'Pitar, encender las luces y pasar'
     }
   },
   {
     id: 84,
-    title: 'Para la mejor circulación, los conductores de vehículos automotores, harán las señales siguientes durante el día y la noche para virar a la derecha:',
+    title: 'Para la mejor circulación, los conductores de vehículos automotores, harán las señales siguientes para indicar modificación de carril, viraje o giro, durante el día y la noche, para virar a la izquierda harán lo siguiente:',
     options: {
       wrong1: 'Pitar, sacar la mano y acelerar',
-      correct: 'Alejarse de la acera avanzando hasta acercarse lo más que se pueda al centro de la vía, indicando la maniobra respectiva, con la dirección del costado izquierdo'
+      correct: 'Alejarse de la acera avanzando hasta acercarse lo más que se pueda al centro de la vía, indicando la maniobra respectiva, con la luz direccional izquierda',
+      wrong2: 'Sacar la mano derecha, hacer señales de que va a cruzar y acelerar'
     }
   },
   {
