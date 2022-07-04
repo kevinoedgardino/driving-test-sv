@@ -4,4 +4,4 @@
 Aplication made with Vue 3 to practice some questions for El Salvador's driving tests.
 
 ## License
-2022, Made by Kevin Chacón. I do not any of the questions and images used in this site.
+2022, Made by Kevin Chacón. I do not own any of the questions and images used in this site.
