@@ -16,6 +16,10 @@ export const router = createRouter({
       component: Home
     },
     {
+      path: '/driving-test-sv',
+      redirect: '/'
+    },
+    {
       path: '/psicologico',
       name: 'Psicologico',
       component: Psychological

@@ -213,7 +213,8 @@ export const questions = [
     options: {
       wrong1: 'Se baja y lo insulta',
       wrong2: 'Le insulta aunque no lo escuche',
-      wrong3: ''
+      correct: 'Le deja que se vaya tranquilamente',
+      wrong3: 'Anota su número de placa y lo denuncia'
     }
   },
   {
