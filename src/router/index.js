@@ -11,36 +11,32 @@ export const router = createRouter({
   history: createWebHistory(),
   routes: [
     {
-      path: '/',
+      path: '/driving-test-sv',
       name: 'Home',
       component: Home
     },
     {
-      path: '/driving-test-sv',
-      redirect: '/'
-    },
-    {
-      path: '/psicologico',
+      path: '/driving-test-sv/psicologico',
       name: 'Psicologico',
       component: Psychological
     },
     {
-      path: '/teorico',
+      path: '/driving-test-sv/teorico',
       name: 'Teorico',
       component: Theoretical
     },
     {
-      path: '/teorico-2',
+      path: '/driving-test-sv/teorico-2',
       name: 'Teorico-2',
       component: TheoreticalTwo
     },
     {
-      path: '/informacion-adicional',
+      path: '/driving-test-sv/informacion-adicional',
       name: 'InformacionAdicional',
       component: MoreInfo
     },
     {
-      path: '/resultado/:testName',
+      path: '/driving-test-sv/resultado/:testName',
       name: 'Result',
       component: Result,
       props: true
