@@ -3,7 +3,7 @@
         <img src="../assets/images/confused_car.svg" alt="Confused car">
         <p>Alto ahí motorista <i class="material-symbols-outlined">pan_tool</i></p>
         <p>404 | La ruta que estas bucando no existe</p>
-        <router-link to="/">Ir al inicio</router-link>
+        <router-link to="/driving-test-sv">Ir al inicio</router-link>
     </div>    
 </template>
 <style scoped>

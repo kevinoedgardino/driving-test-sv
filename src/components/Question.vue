@@ -132,7 +132,7 @@
         <hr class="mt-5 mb-5" /> 
     </section>
     <section class="mb-3">
-        <router-link class="resultslink d-flex justify-content-center m-auto mb-5" @click="saveOnLocalStorage" :to="`/resultado/${testType}`">
+        <router-link class="resultslink d-flex justify-content-center m-auto mb-5" @click="saveOnLocalStorage" :to="`/driving-test-sv/resultado/${testType}`">
             <span>Ver resultados<i class="material-symbols-outlined">sports_score</i></span>
         </router-link>
     </section>

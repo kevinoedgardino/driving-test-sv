@@ -15,19 +15,19 @@ export default {
     </div>
     <div class="d-flex justify-content-center selector">
         <div class="select-container">
-            <router-link class="theoric select m-3" to="/teorico">
+            <router-link class="theoric select m-3" to="/driving-test-sv/teorico">
                 <img src="../assets/images/theoretical-select-image.jpg" alt="Teorico">
                 <h4>Teórico #1<i class="material-symbols-outlined">keyboard_double_arrow_right</i></h4>
             </router-link>
-            <router-link class="theoric select m-3" to="/teorico-2">
+            <router-link class="theoric select m-3" to="/driving-test-sv/teorico-2">
                 <img src="../assets/images/theoretical-select-image-2.jpg" alt="Teorico 2">
                 <h4>Teórico #2<i class="material-symbols-outlined">keyboard_double_arrow_right</i></h4>
             </router-link>
-            <router-link class="psycho select m-3" to="/psicologico">
+            <router-link class="psycho select m-3" to="/driving-test-sv/psicologico">
                 <img src="../assets/images/psychological-select-image.jpg" alt="Psicologico">
                 <h4>Psicológico<i class="material-symbols-outlined">keyboard_double_arrow_right</i></h4>
             </router-link>
-            <router-link class="more-info select m-3" to="/informacion-adicional">
+            <router-link class="more-info select m-3" to="/driving-test-sv/informacion-adicional">
                 <img src="../assets/images/more-info.jpg" alt="Mas informacion">
                 <h4>Más Información<i class="material-symbols-outlined">keyboard_double_arrow_right</i></h4>
             </router-link>

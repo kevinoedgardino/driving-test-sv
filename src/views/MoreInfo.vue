@@ -10,7 +10,7 @@ export default {
         <div class="d-block">
             <h1 class="h1 m-4 mt-3 p-2 fs-1 text-center title-t">Información Adicional</h1>  
             <h2 class="h2 fs-5 text-center subtitle-t">Algunos datos que tambien debes saber</h2>
-            <router-link class="homelink" to="/"><i class="material-symbols-outlined">west</i> Volver al inicio</router-link>
+            <router-link class="homelink" to="/driving-test-sv"><i class="material-symbols-outlined">west</i> Volver al inicio</router-link>
         </div>
     </div>
     <div class="d-block m-2 mt-5">

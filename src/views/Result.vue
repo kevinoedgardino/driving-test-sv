@@ -67,10 +67,10 @@
                 </div>
             </div>
             <div class="d-flex justify-content-center">
-                <router-link class="retry d-flex justify-content-center m-3" :to="`/${testName}`">
+                <router-link class="retry d-flex justify-content-center m-3" :to="`/driving-test-sv/${testName}`">
                     <span>Reintentar <i class="material-symbols-outlined">refresh</i></span>
                 </router-link>
-                <router-link class="homelink d-flex justify-content-center m-3" to="/">
+                <router-link class="homelink d-flex justify-content-center m-3" to="/driving-test-sv">
                     <span>Ir al inicio <i class="material-symbols-outlined">home</i></span>
                 </router-link>
             </div>
