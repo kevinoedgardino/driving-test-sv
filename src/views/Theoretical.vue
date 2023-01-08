@@ -1,6 +1,6 @@
 <script setup>
     import Question from "../components/Question.vue"
-    import { questions } from '../Questions/theoretical.js'
+    import questions from '../Questions/theoretical.json'
 </script>
 
 <script>
