@@ -1,3 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+@font-face {
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('/public/fonts/FredokaOne-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Varela Round';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('/public/fonts/VarelaRound-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('/public/fonts/Lexend-VariableFont_wght.woff2') format('woff2');
+}
