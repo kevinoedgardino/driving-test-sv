@@ -24,51 +24,50 @@
             passQuantity() {
                 this.$emit('getQntQuestions', this.qst.length)
             },
-            getOptionValues(id) {
-                let question = this.qst.filter(question => question.id === id)
-                let optionValues
+            getOptionUUIDS(id) {
+                const question = this.qst.filter(question => question.id === id)
+                const optionUUIDs = []
 
-                question.forEach(item => {
-                    optionValues = Object.values(item.options)
-                })
+                const { options } = question[0]
 
-                return optionValues
+                for (const item in options) {
+                    optionUUIDs.push(options[item].option_uuid)   
+                }
+           
+                return optionUUIDs
             },
             disableButtons(id) {
-                let values = this.getOptionValues(id)
-                for (let i = 0; i <= values.length - 1; i++) {
-                    let formattedValue = values[i].replace(/\s/g , '-').replaceAll('.','-').replaceAll(',','-').replaceAll('$','-').replaceAll('%','-').normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
-                    document.querySelector(`.uwu${id}-${formattedValue}`).className += " disabled"
-                }
+                const values = this.getOptionUUIDS(id)
+                values.forEach(v => document.querySelector(`.uwu${v}`).className += " disabled")
             },
             getClass(id, isCorrect) {
-                let question = this.qst.filter(question => question.id === id)
-                let correct
+                const question = this.qst.filter(question => question.id === id)
+                const { options } = question[0]
+
                 if (isCorrect) {
-                    question.forEach(item => {
-                        correct = item.options.correct
-                    });
-                    return correct = correct.replace(/\s/g , '-').replaceAll('.','-').replaceAll(',','-').replaceAll('$','-').replaceAll('%','-').normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+                    return options.correct.option_uuid
                 }
                 else {
-                    let incorrects = Object.keys(question[0].options)
-                                            .filter((key) => key.includes('wrong'))
-                                            .reduce((cur, key) => { return Object.assign(cur, { [key]: question[0].options[key] })}, {})
+                    const incorrects = []
+
+                    for (const item in options) {
+                        item.includes('wrong') ? incorrects.push(options[item].option_uuid) : null   
+                    }
+
                     return incorrects
                 }
             },
-            showResult(id, isCorrect, value) {
-                let classCorrect = this.getClass(id, true)
+            showResult(id, isCorrect, uuid) {
+                const classCorrect = this.getClass(id, true)
                 if (isCorrect) {
-                    document.querySelector(`.uwu${id}-${classCorrect}`).className += " correct"
+                    document.querySelector(`.uwu${classCorrect}`).className += " correct"
                 }
                 else { 
-                    let formatted = value.replace(/\s/g , '-').replaceAll('.','-').replaceAll(',','-').replaceAll('$','-').replaceAll('%','-').normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
-                    document.querySelector(`.uwu${id}-${formatted}`).className += " incorrect"
-                    document.querySelector(`.uwu${id}-${classCorrect}`).className += " correct"
+                    document.querySelector(`.uwu${uuid}`).className += " incorrect"
+                    document.querySelector(`.uwu${classCorrect}`).className += " correct"
                 }
             },
-            check(id, option, value) {
+            check(id, option, uuid) {
                 if (option === "correct") {
                     this.disableButtons(id)
                     this.result.corrects += 1
@@ -76,7 +75,7 @@
                 }
                 else {
                     this.disableButtons(id)
-                    this.showResult(id, false, value)
+                    this.showResult(id, false, uuid)
                 } 
             },
             saveOnLocalStorage() {  
@@ -124,8 +123,8 @@
         </p>
         <div class="options">
             <div v-for="(value, key) in question.options" :key="key">
-                <div :class="`option uwu${question.id}-${value.replace(/\s/g , '-').replaceAll('.','-').replaceAll(',','-').replaceAll('$','-').replaceAll('%','-').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()}`" @click.once="check(question.id, key, value)">
-                    <button :id="`uwu${question.id}-${value.replace(/\s/g , '-').replaceAll('.','-').replaceAll(',','-').replaceAll('$','-').replaceAll('%','-').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()}`">{{ value }}</button>
+                <div :class="`option uwu${value.option_uuid}`" @click.once="check(question.id, key, value.option_uuid)">
+                    <button :id="`uwu${value.option_uuid}`">{{ value.text }}</button>
                 </div>  
             </div>
         </div>
