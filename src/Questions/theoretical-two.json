@@ -1,0 +1,1561 @@
+[
+  {
+    "id": 1,
+    "title": "La multa por \"Conducir con luz alta en la ciudad\" es de:",
+    "options": {
+      "correct": {
+        "text": "100 colones o $11.43 dólares",
+        "option_uuid": "1b049b5b"
+      },
+      "wrong1": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "802167a7"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "La multa por conducir con licencia inadecuada u otro tipo de vehículo es de:",
+    "options": {
+      "wrong1": {
+        "text": "100 colones o $11.43 dólares",
+        "option_uuid": "122d8ac7"
+      },
+      "correct": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "23b56252"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "La multa por estacionarse en curvas y trechos angostos es de:",
+    "options": {
+      "wrong1": {
+        "text": "100 colones o $11.43 dólares",
+        "option_uuid": "dbd7a924"
+      },
+      "correct": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "00a2f11c"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "La multa por \"Disputarse la vía con otro vehículo\" es de:",
+    "options": {
+      "correct": {
+        "text": "500 colones o $57.14 dólares",
+        "option_uuid": "8f3cd303"
+      },
+      "wrong1": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "d53a93db"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "La multa por \"Intentar sobornar a las autoridades del control víal\" es de:",
+    "options": {
+      "wrong1": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "fb5ed307"
+      },
+      "correct": {
+        "text": "500 colones o $57.14 dólares",
+        "option_uuid": "8eb32555"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "La multa por \"Estacionarse en zona prohibida o eje preferencial\" es de:",
+    "options": {
+      "wrong1": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "0cc66718"
+      },
+      "correct": {
+        "text": "500 colones o $57.14 dólares",
+        "option_uuid": "57bfa6d0"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "¿En qué casos un agente de la Policía Nacional Civil podrá ordenar la remisión de su vehículo?",
+    "options": {
+      "wrong1": {
+        "text": "Realizar competencias automovilísticas",
+        "option_uuid": "9a43657f"
+      },
+      "wrong2": {
+        "text": "Conducir el vehículo bajo los efectos de bebidas embriagantes",
+        "option_uuid": "12cc1e09"
+      },
+      "wrong3": {
+        "text": "Circular despacio",
+        "option_uuid": "177180fd"
+      },
+      "correct": {
+        "text": "Primera y segunda son correctas",
+        "option_uuid": "10e0e250"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "¿En qué caso se podrá decomisar la licencia?",
+    "options": {
+      "correct": {
+        "text": "Conducir bajo los efectos de bebidas embriagantes y estupefacientes",
+        "option_uuid": "c02325e8"
+      },
+      "wrong1": {
+        "text": "Conducir en días festivos",
+        "option_uuid": "8cbb25e4"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "title": "¿En qué caso se podrá decomisar la tarjeta de circulación?",
+    "options": {
+      "correct": {
+        "text": "Conducir con la tarjeta de circulación vencida",
+        "option_uuid": "de250508"
+      },
+      "wrong1": {
+        "text": "Conducir sin combustible",
+        "option_uuid": "b856a511"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "title": "Después que se le ha impuesto una esquela, ¿De cuantos días usted dispone para presentar un escrito de inconformidad de la referida esquela?",
+    "options": {
+      "wrong1": {
+        "text": "Tres días hábiles",
+        "option_uuid": "51d1f851"
+      },
+      "correct": {
+        "text": "Cinco días hábiles",
+        "option_uuid": "60d9a951"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "title": "Después que es admitido el inscrito de inconformidad de una esquela, la unidad de procedimientos legales de tránsito deberá admitir resolución dentro de los siguientes:",
+    "options": {
+      "wrong1": {
+        "text": "Cinco días hábiles",
+        "option_uuid": "54391068"
+      },
+      "correct": {
+        "text": "Tres días hábiles posterior a la denuncia",
+        "option_uuid": "cf4eab83"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "title": "La resolución final de inconformidad de una esquela admitirá recurso de apelación ante:",
+    "options": {
+      "wrong1": {
+        "text": "Director general de tránsito",
+        "option_uuid": "37af13d0"
+      },
+      "correct": {
+        "text": "Viceministerio de transporte",
+        "option_uuid": "2e0ab8ac"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "title": "¿Qué tipo de infracción debe cometer una persona que goce de licencia juvenil para que se le sea suspendida definitivamente?",
+    "options": {
+      "wrong1": {
+        "text": "Realizar competencias automovilisticas en vías de circulación",
+        "option_uuid": "60c839c2"
+      },
+      "wrong2": {
+        "text": "Conducir el vehículo bajo los efectos de bebidas embriagantes, estupefacientes o enervantes",
+        "option_uuid": "98d9292b"
+      },
+      "wrong3": {
+        "text": "Salir demasiado rápido de un redondel",
+        "option_uuid": "52d1f487"
+      },
+      "correct": {
+        "text": "Primera y segunda son correctas",
+        "option_uuid": "786bd67b"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "title": "Cuando en un año fiscal los conductores de vehículos automotores acumulen cuatro infracciones del mismo tipo, sean estas: leves, graves o muy graves. ¿Cuanto deben de pagar a partir de la cuarta infracción?",
+    "options": {
+      "correct": {
+        "text": "El doble del valor normal",
+        "option_uuid": "7fe6f1f7"
+      },
+      "wrong1": {
+        "text": "El triple del valor normal",
+        "option_uuid": "32f89902"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "title": "Los conductores que acumulen cuatro infracciones del mismo tipo en un año fiscal podrán renovar su licencia de conducir, hasta que haya cancelado las multas correspondientes y cumplido con el procedimiento siguiente:",
+    "options": {
+      "correct": {
+        "text": "Se someterá a un curso de reeducación vial",
+        "option_uuid": "b8f7ac27"
+      },
+      "wrong1": {
+        "text": "Se esperará a que venza su licencia para saber cuanto debe",
+        "option_uuid": "3be48d84"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "title": "Los conductores que en el mismo año fiscal acumulen siete infracciones, además de cancelar el valor de las infracciones cometidas se harán acreedor a:",
+    "options": {
+      "wrong1": {
+        "text": "Decomiso de licencia",
+        "option_uuid": "72972a39"
+      },
+      "correct": {
+        "text": "Decomiso de licencia y someterse a un curso de reeducación víal",
+        "option_uuid": "d0637e7b"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "title": "Cuando se ordene suspensión definitiva de la licencia de conducir automotores, o de la autorización para conducir unidades de transporte colectivo. ¿Cuántos años después el interesado podrá solicitar nuevamente la autorización?",
+    "options": {
+      "correct": {
+        "text": "Dos años",
+        "option_uuid": "497e9d72"
+      },
+      "wrong1": {
+        "text": "Tres años",
+        "option_uuid": "ede8a855"
+      },
+      "wrong2": {
+        "text": "Cuatro años",
+        "option_uuid": "020789a7"
+      },
+      "wrong3": {
+        "text": "Cinco años",
+        "option_uuid": "d1222d05"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "title": "¿Quienes serán los encargados de aplicar las multas por infracciones de tránsito?",
+    "options": {
+      "wrong1": {
+        "text": "Sertracen y Dirección General de Tránsito",
+        "option_uuid": "c0eaceca"
+      },
+      "correct": {
+        "text": "Viceministerio de Transporte y Dirección General de Tránsito Terrestre de la Policía Nacional Civil",
+        "option_uuid": "895d4592"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "title": "¿De cuántos días se dispone para cancelar las multas impuestas por infracciones de tránsito y seguridad víal, para no hacerse acreedor de un recargo del 4% anual?",
+    "options": {
+      "wrong1": {
+        "text": "Veinte días",
+        "option_uuid": "5e3f6ec8"
+      },
+      "correct": {
+        "text": "Treinta días",
+        "option_uuid": "790191b9"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "title": "¿Qué significa la luz roja del semáforo?",
+    "options": {
+      "correct": {
+        "text": "Alto",
+        "option_uuid": "59f1f0de"
+      },
+      "wrong1": {
+        "text": "Pare y siga con precaución",
+        "option_uuid": "09f036cc"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "title": "¿Qué significa la luz amarilla del semáforo?",
+    "options": {
+      "correct": {
+        "text": "Precaución",
+        "option_uuid": "1ab7b663"
+      },
+      "wrong1": {
+        "text": "Que tiene vía libre",
+        "option_uuid": "875438d2"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "title": "¿Qué significa la luz roja intermitente del semáforo?",
+    "options": {
+      "wrong1": {
+        "text": "Que puede pasar rápido",
+        "option_uuid": "0c66c4e5"
+      },
+      "correct": {
+        "text": "Que tiene que hacer un alto por completo",
+        "option_uuid": "a8f1d6a4"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "title": "¿Qué significa la luz amarilla intermitente del semáforo?",
+    "options": {
+      "correct": {
+        "text": "Siga adelante con precaución",
+        "option_uuid": "37700529"
+      },
+      "wrong1": {
+        "text": "Alto",
+        "option_uuid": "cb7284ad"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "title": "De acuerdo con la función que cumplen, las señales de tránsito verticales se clasifican en:",
+    "options": {
+      "wrong1": {
+        "text": "De soporte",
+        "option_uuid": "f2f52869"
+      },
+      "correct": {
+        "text": "Reglamentaria, de prevención e informativas",
+        "option_uuid": "361aa2f4"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "title": "¿Cuál es el color utilizado en las señales preventivas",
+    "options": {
+      "wrong1": {
+        "text": "Azul y blanco",
+        "option_uuid": "1595dfab"
+      },
+      "correct": {
+        "text": "Amarillo y negro",
+        "option_uuid": "33a7e4f8"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "title": "¿Cual es el color de las señales restrictivas o prohibitivas (reglamentarias)?",
+    "options": {
+      "correct": {
+        "text": "Rojo, Blanco y Negro",
+        "option_uuid": "f77bf421"
+      },
+      "wrong1": {
+        "text": "Café, Blanco y Rojo",
+        "option_uuid": "76a8a23e"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "title": "Las señales pintadas sobre el pavimento son llamadas:",
+    "options": {
+      "wrong1": {
+        "text": "Señales en diagonal",
+        "option_uuid": "222880e7"
+      },
+      "correct": {
+        "text": "Señales horizontales",
+        "option_uuid": "91cf940f"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "title": "¿Cuál es el significado de la señal \"Velocidad Máxima\"",
+    "image": "max-velocity.svg",
+    "options": {
+      "wrong1": {
+        "text": "Velocidad",
+        "option_uuid": "f064ff01"
+      },
+      "correct": {
+        "text": "Velocidad máxima a la que debe de circular",
+        "option_uuid": "3fb1abc7"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "title": "¿Cuál es el significado de la señal \"Vehículos Pesados conserven su derecha\"?",
+    "image": "big-cars-to-right.svg",
+    "options": {
+      "correct": {
+        "text": "Que los conductores deben de circular por la derecha",
+        "option_uuid": "41b49f33"
+      },
+      "wrong1": {
+        "text": "Velocidad de transporte pesado",
+        "option_uuid": "d40d857e"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "title": "¿Cuál es el significado de la señal \"Use Luz Corta\"?",
+    "image": "short-light.svg",
+    "options": {
+      "wrong1": {
+        "text": "Que debe usar halógenos durante la noche",
+        "option_uuid": "542d36aa"
+      },
+      "correct": {
+        "text": "Que debe usar luces bajas en la ciudad",
+        "option_uuid": "fb1b2d5a"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "title": "¿Cuál es el significado de la señal \"No Ciclistas\"?",
+    "image": "no-cyclists.svg",
+    "options": {
+      "correct": {
+        "text": "Se prohíbe la entrada y circulación de ciclistas en la vía",
+        "option_uuid": "ceb0e8a3"
+      },
+      "wrong1": {
+        "text": "Se prohíbe usar bicicletas sin casco de protección",
+        "option_uuid": "47181a73"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "title": "¿Qué indica la señal \"Curva Pronunciada\"?",
+    "image": "sharp-curve.svg",
+    "options": {
+      "wrong1": {
+        "text": "No se estacione en la curva",
+        "option_uuid": "82638eb8"
+      },
+      "correct": {
+        "text": "Disminuya la velocidad ya que la curva es bastante cerrada o pronunciada",
+        "option_uuid": "a98a749a"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "title": "¿Cuál es el significado de la señal \"Curva Peligrosa a la Derecha\"",
+    "image": "dangerous-curve.svg",
+    "options": {
+      "wrong1": {
+        "text": "Gire sin precaución",
+        "option_uuid": "b2f1dfd4"
+      },
+      "correct": {
+        "text": "Debe tener mucho cuidado ya que esta a punto de ingresar a una curva",
+        "option_uuid": "0f2cb214"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "title": "¿Cuál es el significado de la señal \"Carretera Sinuosa\"?",
+    "image": "winding-road.svg",
+    "options": {
+      "wrong1": {
+        "text": "Peligro, la carretera tiene desperfectos en su superficie",
+        "option_uuid": "02823c4f"
+      },
+      "correct": {
+        "text": "Proximidad de tres o más curvas sucesivas",
+        "option_uuid": "e581d8ba"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "title": "¿Cuál es el significado de la señal \"Proximidad de intersección\"?",
+    "image": "near-intersection.svg",
+    "options": {
+      "correct": {
+        "text": "Precaución, ya que se acerca a una intersección en la que pueden converger tres vehículos además del suyo",
+        "option_uuid": "5f4d0ac9"
+      },
+      "wrong1": {
+        "text": "Prevención un muerto en la carretera",
+        "option_uuid": "4271c52e"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "title": "¿Cuál es el significado de la señal \"Proximidad de Carretera Lateral Derecha\"?",
+    "image": "near-road-right.svg",
+    "options": {
+      "wrong1": {
+        "text": "Proximidad a carretera preferente",
+        "option_uuid": "61f7f8c2"
+      },
+      "correct": {
+        "text": "Precaución con el trafico que puede aparecer en la intersección lateral",
+        "option_uuid": "149b5b0e"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "title": "¿Cuál es el significado de la señal \"Proximidad Carretera en Ángulo Oblicuo\"?",
+    "image": "oblique-angle.svg",
+    "options": {
+      "correct": {
+        "text": "Puede abandonar la vía por esta desviación",
+        "option_uuid": "c4734675"
+      },
+      "wrong1": {
+        "text": "No se salga de la carretera",
+        "option_uuid": "3838feab"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "title": "¿Cuál es el significado de la señal \"Proximidad de una Intersección en T\"?",
+    "image": "t-intersection.svg",
+    "options": {
+      "wrong1": {
+        "text": "Conduzca por su derecha",
+        "option_uuid": "85037c6d"
+      },
+      "correct": {
+        "text": "Le advierte que encontrará una intersección en T que entronca en medio de una curva peligrosa, del lado izquierdo",
+        "option_uuid": "8a3d97c2"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "title": "¿Cuál es el significado de la señal \"Ceda el Paso\"",
+    "image": "yield.svg",
+    "options": {
+      "wrong1": {
+        "text": "Carretera en triángulo adelante",
+        "option_uuid": "83e05897"
+      },
+      "correct": {
+        "text": "Debe disminuir la velocidad y observar a ambos lados de la vía a la cual se incorpora",
+        "option_uuid": "cd64cd4d"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "title": "¿Cuál es el significado de la señal \"Incorporación de Tránsito\"?",
+    "image": "transit-incorporation.svg",
+    "options": {
+      "correct": {
+        "text": "Se aproxima a un tramo de carreta donde el tránsito se incorpora en el sentido de su circulación",
+        "option_uuid": "e141a9d9"
+      },
+      "wrong1": {
+        "text": "Se aproxima a un tramo de carretera con desvío",
+        "option_uuid": "2d849b7e"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "title": "¿Cuál es el significado de la señal \"Reducción en el número de carriles de circulación\"?",
+    "image": "lane-reduction.svg",
+    "options": {
+      "wrong1": {
+        "text": "Ya no puede seguir de frente",
+        "option_uuid": "dfbb4589"
+      },
+      "correct": {
+        "text": "La carretera se reduce en su anchura, manténgase alerta a un lado",
+        "option_uuid": "4fd32910"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "title": "¿Qué advierte la señal \"Ancho Máximo\"?",
+    "image": "max-width.svg",
+    "options": {
+      "correct": {
+        "text": "Tenga precaución, ya que el espacio de la estructura para que circulen al mismo tiempo dos vehículos no es suficiente",
+        "option_uuid": "3ac27db1"
+      },
+      "wrong1": {
+        "text": "No pase si su vehículo no es menos ancho",
+        "option_uuid": "bc2fed7c"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "title": "¿Qué advierte la señal \"Superficie Resbaladiza\"?",
+    "image": "slippery-surface.svg",
+    "options": {
+      "wrong1": {
+        "text": "Puede pintar las llantas en la calle",
+        "option_uuid": "8cda24e8"
+      },
+      "correct": {
+        "text": "Si está lloviendo recuerde que la carretera se pone lisa y su vehículo puede atinar generando el hidroplaneamiento",
+        "option_uuid": "32e0dd54"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "title": "¿Cuál es el significado de la señal \"Vado u hondonada\"",
+    "image": "hollow.svg",
+    "options": {
+      "correct": {
+        "text": "Precaución, se acerca a un tramo en la carretera donde puede haber agua en el pavimento, disminuya la velocidad",
+        "option_uuid": "447940aa"
+      },
+      "wrong1": {
+        "text": "La carretera esta en reparación",
+        "option_uuid": "60e6b8f6"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "title": "¿Cuál es el significado de la señal \"Paso de Peatones\"?",
+    "image": "pedestrians.svg",
+    "options": {
+      "wrong1": {
+        "text": "No hay paso de peatones",
+        "option_uuid": "d1b7a0f0"
+      },
+      "correct": {
+        "text": "Disminuya la velocidad, si hay peatones cruzando la vía, debe detenerse, que ellos tienen prioridad de paso",
+        "option_uuid": "8fa1918d"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "title": "¿Qué significado tiene la señal \"Zona Escolar\"?",
+    "image": "school-zone.svg",
+    "options": {
+      "correct": {
+        "text": "Disminuya la velocidad hasta 25kmh si están entrando o saliendo escolares o si es necesario deberá detenerse",
+        "option_uuid": "de436a7c"
+      },
+      "wrong1": {
+        "text": "Un par de estudiantes en la vía",
+        "option_uuid": "63a33f14"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "title": "¿Qué significado tiene la señal \"Doble Circulación\"?",
+    "image": "double-circulation.svg",
+    "options": {
+      "wrong1": {
+        "text": "Circule al norte y luego al sur",
+        "option_uuid": "a857393f"
+      },
+      "correct": {
+        "text": "El tramo de la carretera al que se aproxima se convierte en doble sentido",
+        "option_uuid": "b6037c1c"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "title": "¿Qué le indican las líneas discontinuas de color amarillo (tambien las puede encontrar de color blanco)?",
+    "image": "discontinue-lines.svg",
+    "options": {
+      "wrong1": {
+        "text": "Que ninguno puede rebasar o adelantar",
+        "option_uuid": "dbe85ed8"
+      },
+      "correct": {
+        "text": "Que ambos pueden rebasar o adelantar",
+        "option_uuid": "874c3984"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "title": "¿Qué le indica la línea continua amarilla?",
+    "image": "continuous-lines.svg",
+    "options": {
+      "correct": {
+        "text": "Que ninguno puede rebasar o adelantar",
+        "option_uuid": "18910dd2"
+      },
+      "wrong1": {
+        "text": "Que ambos pueden rebasar o adelantar",
+        "option_uuid": "4de7409c"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "title": "¿Quién puede rebasar según esta señal?",
+    "image": "double-lines.svg",
+    "options": {
+      "correct": {
+        "text": "El que tiene la línea discontinua a la izquierda",
+        "option_uuid": "6c828282"
+      },
+      "wrong1": {
+        "text": "El que tiene la línea continua a su izquierda",
+        "option_uuid": "16893bad"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "title": "¿Qué le indica las líneas de color amarillo pintadas en el borde de la acera?",
+    "image": "yellow-sidewalk-edge.svg",
+    "options": {
+      "wrong1": {
+        "text": "No regula nada",
+        "option_uuid": "4acee84b"
+      },
+      "correct": {
+        "text": "Que no puede estacionarse en la zona",
+        "option_uuid": "69e86ef1"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "title": "¿Qué significan las líneas de color amarillo pintadas en las intersecciones tal como se muestra en la imagen?",
+    "image": "intersection-lines.svg",
+    "options": {
+      "correct": {
+        "text": "Que si no puede cruzar la intersección, no debe bloquear el trafico transversal",
+        "option_uuid": "bc552774"
+      },
+      "wrong1": {
+        "text": "Zona de seguridad peatonal",
+        "option_uuid": "be9dafb2"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "title": "Para los efectos de Ley de Transporte Terrestre, Tránsito y seguridad vial, los vehículos se clasifican en:",
+    "options": {
+      "wrong1": {
+        "text": "De transporte maritimo",
+        "option_uuid": "374def3a"
+      },
+      "correct": {
+        "text": "De motor, de tracción humana, ya sea de mano, pedal y de tracción animal",
+        "option_uuid": "19876c69"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "title": "Los vehículos automotores regulados por la ley de transporte terrestre, transito y seguridad vial serán:",
+    "options": {
+      "wrong1": {
+        "text": "Las moto taxis",
+        "option_uuid": "f0682593"
+      },
+      "correct": {
+        "text": "Livianos de pasajeros, pesados de pasajeros y de carga",
+        "option_uuid": "feff7ce8"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "title": "¿Qué tipo de vehículos se excluye de la regulación de la ley de transporte terrestre, transito y seguridad vial?",
+    "options": {
+      "correct": {
+        "text": "Los de transporte ferroviario",
+        "option_uuid": "4734e074"
+      },
+      "wrong1": {
+        "text": "Los de tracción humana",
+        "option_uuid": "45d1b33f"
+      }
+    }
+  },
+  {
+    "id": 56,
+    "title": "¿Qué tipo de vehículos se exceptúan para tener el timón al lado derecho?",
+    "options": {
+      "wrong1": {
+        "text": "Los traídos del exterior",
+        "option_uuid": "40a2b21e"
+      },
+      "correct": {
+        "text": "Los vehículos antiguos de colección cuyo timón es original al lado derecho",
+        "option_uuid": "de5a8fb8"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "title": "La realización de obras o instalaciones en las vías públicas deberán contar con la autorización de:",
+    "options": {
+      "wrong1": {
+        "text": "De el gobierno",
+        "option_uuid": "99843d55"
+      },
+      "correct": {
+        "text": "De el viceministerio de transporte",
+        "option_uuid": "5a4a085c"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "title": "Las maniobras de circulación vehicular y el movimiento peatonal en los estacionamientos es regulada por la ley y sus reglamentos",
+    "options": {
+      "correct": {
+        "text": "Sí",
+        "option_uuid": "988bb0cf"
+      },
+      "wrong1": {
+        "text": "No",
+        "option_uuid": "4f61db21"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "title": "La señal \"Maquinaria Trabajando a 500 metros\" es una señal:",
+    "image": "working-signals.svg",
+    "options": {
+      "wrong1": {
+        "text": "Preventiva",
+        "option_uuid": "1d907cc9"
+      },
+      "wrong2": {
+        "text": "Restrictiva",
+        "option_uuid": "71c86765"
+      },
+      "correct": {
+        "text": "De precaución cuando hay trabajos de construcción en las carreteras",
+        "option_uuid": "766d29f8"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "title": "La señal \"Indicador de bifurcación\" es una señal:",
+    "image": "fork-sign.svg",
+    "options": {
+      "correct": {
+        "text": "De precaución cuando hay trabajos de construcción en las carreteras",
+        "option_uuid": "4845a73c"
+      },
+      "wrong1": {
+        "text": "De prevención",
+        "option_uuid": "0f196fe1"
+      }
+    }
+  },
+  {
+    "id": 61,
+    "title": "Los talleres autorizados al efectuar las revisiones del sistema de control de emisión de gas emitirán un certificado membretado y firmado por representante legal que tendrá una duración de:",
+    "options": {
+      "correct": {
+        "text": "1 año",
+        "option_uuid": "23770193"
+      },
+      "wrong1": {
+        "text": "2 años",
+        "option_uuid": "3edce69a"
+      }
+    }
+  },
+  {
+    "id": 62,
+    "title": "Las anotaciones en el registro y control de vehículos podrán eliminarse por:",
+    "options": {
+      "wrong1": {
+        "text": "Los policías",
+        "option_uuid": "b19bf667"
+      },
+      "correct": {
+        "text": "Por orden judicial, o por resolución administrativa del Director General de Tránsito",
+        "option_uuid": "f942b8c8"
+      }
+    }
+  },
+  {
+    "id": 63,
+    "title": "¿Cuál es el distintivo de los vehículos propiedad del estado?",
+    "options": {
+      "correct": {
+        "text": "Placas especificadas y un logotipo de cada ministerio o institución a la que representan",
+        "option_uuid": "de4add31"
+      },
+      "wrong1": {
+        "text": "Deben ser blindados",
+        "option_uuid": "b876c83c"
+      }
+    }
+  },
+  {
+    "id": 64,
+    "title": "Los funcionarios que gozan el uso de vehículos discrecionales propiedad del estado son:",
+    "options": {
+      "wrong1": {
+        "text": "Los abogados",
+        "option_uuid": "f4614c8d"
+      },
+      "wrong2": {
+        "text": "Los alcalades",
+        "option_uuid": "e26c9d96"
+      },
+      "correct": {
+        "text": "Los diputados de la Asamblea Legislativa",
+        "option_uuid": "d748bef1"
+      }
+    }
+  },
+  {
+    "id": 65,
+    "title": "¿Qué no debe hacer el motociclista?",
+    "options": {
+      "correct": {
+        "text": "Asirse o agarrarse a otro vehículo",
+        "option_uuid": "ec0cc3e3"
+      },
+      "wrong1": {
+        "text": "Viajar con menos de dos personas",
+        "option_uuid": "38292acf"
+      }
+    }
+  },
+  {
+    "id": 66,
+    "title": "¿Quién será el encargado de inmovilizar a todos los vehículos que no porten la póliza del seguro obligatorio vigente?",
+    "options": {
+      "wrong1": {
+        "text": "Las compañías de seguro",
+        "option_uuid": "d8e54b23"
+      },
+      "correct": {
+        "text": "La dirección general de tránsito y la división de tránstio terrestre de la PNC",
+        "option_uuid": "5677acba"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "title": "¿Cómo deben de circular los vehículos que transporten objetos mal olientes o repugnantes?",
+    "options": {
+      "wrong1": {
+        "text": "Deben de circular lo más rápido posible",
+        "option_uuid": "beae5c26"
+      },
+      "correct": {
+        "text": "Tienen que ir bien cubiertos y con medidas necesarias para evitar molestias",
+        "option_uuid": "24e03013"
+      }
+    }
+  },
+  {
+    "id": 68,
+    "title": "Una de las regulaciones que deberán de acatar los vehículos livianos y pesados de carga es la siguiente:",
+    "options": {
+      "wrong1": {
+        "text": "Deben de usar llantas dobles",
+        "option_uuid": "da891149"
+      },
+      "correct": {
+        "text": "No debe de ocultar las luces del vehículo ni el número de la placa",
+        "option_uuid": "a60c1d36"
+      }
+    }
+  },
+  {
+    "id": 69,
+    "title": "¿Cuál es el máximo de pasajeros que se permite transportar en los pick up de uso familiar?",
+    "options": {
+      "correct": {
+        "text": "Ocho adultos y cuatro menores siempre que no sobrepase la capacidad del vehículo",
+        "option_uuid": "209a2029"
+      },
+      "wrong1": {
+        "text": "Diez personas",
+        "option_uuid": "7d20b121"
+      }
+    }
+  },
+  {
+    "id": 70,
+    "title": "Una de las normas que deben de cumplir los vehículos que transporten materiales peligrosos además de los establecidos en los tratados internacionales es la siguiente:",
+    "options": {
+      "correct": {
+        "text": "Portar un permiso otorgado conjuntamente por la dirección general de transporte terrestre y la dirección general de tránsito",
+        "option_uuid": "ee0b1a59"
+      },
+      "wrong1": {
+        "text": "Conducir en horarios de poco tráfico",
+        "option_uuid": "307c5e7c"
+      }
+    }
+  },
+  {
+    "id": 71,
+    "title": "¿Qué debe hacer todo conductor antes de encender el motor?",
+    "options": {
+      "correct": {
+        "text": "Abrocharse el cinturón de seguridad",
+        "option_uuid": "fa1554f7"
+      },
+      "wrong1": {
+        "text": "Poner velocidad",
+        "option_uuid": "b1a2b8dd"
+      }
+    }
+  },
+  {
+    "id": 72,
+    "title": "A efectos de reducir las posibilidades de accidente por exceso de velocidad, los vehículos de transporte colectivo urbano deberán poseer:",
+    "options": {
+      "correct": {
+        "text": "Un dispositivo de regulación de velocidad para que no sobrepase los 60kmh",
+        "option_uuid": "519f533b"
+      },
+      "wrong1": {
+        "text": "Motores de alta velocidad",
+        "option_uuid": "1749f405"
+      }
+    }
+  },
+  {
+    "id": 73,
+    "title": "Uno de los requisitos que deben tener los talleres que realizan la revisión mecánica es:",
+    "options": {
+      "wrong1": {
+        "text": "Deben de ser talleres del gobierno",
+        "option_uuid": "d9076197"
+      },
+      "correct": {
+        "text": "Poseer equipo técnico adecuado para efectuar dichas revisiones",
+        "option_uuid": "7c512951"
+      }
+    }
+  },
+  {
+    "id": 74,
+    "title": "Algunas de las podificaciónes que lo talleres no podrán realizar en los vehículos son:",
+    "options": {
+      "wrong1": {
+        "text": "Cambiar parabrisas",
+        "option_uuid": "a465f215"
+      },
+      "correct": {
+        "text": "Eliminar los dispositivos para el control de emisión de gas o dispositivo de control de seguridad",
+        "option_uuid": "722d0911"
+      }
+    }
+  },
+  {
+    "id": 75,
+    "title": "¿Cómo detecta con el pedal de freno que está en malas condiciones?",
+    "options": {
+      "correct": {
+        "text": "Si al presionarlo se va al fondo",
+        "option_uuid": "c91478a4"
+      },
+      "wrong1": {
+        "text": "Si cuando lo pisa se resbala el zapato",
+        "option_uuid": "ad91a714"
+      }
+    }
+  },
+  {
+    "id": 76,
+    "title": "¿Cuál es un deber del peatón?",
+    "options": {
+      "wrong1": {
+        "text": "Aprender a conducir",
+        "option_uuid": "6a8b39e3"
+      },
+      "correct": {
+        "text": "Prestar su cooperación a las autoridades para mejor cumplimiento del reglamento general de tránsito, cuando para ello sea requerido",
+        "option_uuid": "a862f86b"
+      }
+    }
+  },
+  {
+    "id": 77,
+    "title": "¿Cuál es una obligación del peatón?",
+    "options": {
+      "correct": {
+        "text": "Transitar en zonas urbanas solo por las aceras y cruzar las vías en las esquinas por las zonas de seguridad, en los lugares que haya pasos peatonales a nivel o a desnivel deberán transitar por estas",
+        "option_uuid": "b9a87c28"
+      },
+      "wrong1": {
+        "text": "Tirarse del bus en movimiento",
+        "option_uuid": "7628f484"
+      }
+    }
+  },
+  {
+    "id": 78,
+    "title": "¿Cuál es una regla de un peatón",
+    "options": {
+      "wrong1": {
+        "text": "Caminar sin tener precaución",
+        "option_uuid": "8db83947"
+      },
+      "correct": {
+        "text": "Es prohibido bajar o subirse a un vehículo cuando este se encuentre en movimiento",
+        "option_uuid": "1a323126"
+      }
+    }
+  },
+  {
+    "id": 79,
+    "title": "¿Que deberá hacer un vehículo que esta parado o estacionado y pretende incorporarse a la circulación vehicular?",
+    "options": {
+      "wrong1": {
+        "text": "Acelerar a fondo",
+        "option_uuid": "b616e080"
+      },
+      "correct": {
+        "text": "Deberá cerciorarse previamente de que pueda hacerlo sin peligro, cediendo el paso a otro vehículo teniendo en cuenta la posición, trayectoria y velocidad",
+        "option_uuid": "3fa49e25"
+      },
+      "wrong2": {
+        "text": "Pitar para que se aparten",
+        "option_uuid": "d3e9416e"
+      }
+    }
+  },
+  {
+    "id": 80,
+    "title": "Se prohíbe la maniobra de marcha atrás:",
+    "options": {
+      "correct": {
+        "text": "En las vías rápidas y carreteras de alto volumen de tránsito",
+        "option_uuid": "c87be65d"
+      },
+      "wrong1": {
+        "text": "En centros comerciales",
+        "option_uuid": "7d07de7e"
+      }
+    }
+  },
+  {
+    "id": 81,
+    "title": "Es permitida la maniobra de marcha atrás en:",
+    "options": {
+      "wrong1": {
+        "text": "Vías publicas",
+        "option_uuid": "e6dd52ac"
+      },
+      "wrong2": {
+        "text": "Carreteras de alto volumen de tránsito",
+        "option_uuid": "f11290cc"
+      },
+      "wrong3": {
+        "text": "La red vial urbana principal",
+        "option_uuid": "5067f44a"
+      },
+      "correct": {
+        "text": "En ninguno de los casos anteriores",
+        "option_uuid": "b9083ef9"
+      }
+    }
+  },
+  {
+    "id": 82,
+    "title": "Cuando en las vías urbanas tenga que realizar la maniobra de parada o el estacionamiento de su vehículo, lo hará de la siguiente forma:",
+    "options": {
+      "wrong1": {
+        "text": "Colocando las llantas sobre la acera",
+        "option_uuid": "08cbccef"
+      },
+      "correct": {
+        "text": "Se situará el vehículo al borde derecho de la vía",
+        "option_uuid": "3ed660fe"
+      }
+    }
+  },
+  {
+    "id": 83,
+    "title": "Para la mejor circulación, los conductores de vehículos automotores, harán las señales siguientes para indicar modificación de carril, viraje o giro, durante el día y la noche, para virar a la derecha harán lo siguiente:",
+    "options": {
+      "correct": {
+        "text": "No deberá rebasar el eje imaginario de la vía, indicando dicha maniobra con la luz direccional del costado derecho",
+        "option_uuid": "6022703b"
+      },
+      "wrong1": {
+        "text": "Pitar, moverse a la derecha y girar",
+        "option_uuid": "1038c9f9"
+      },
+      "wrong2": {
+        "text": "Pitar, encender las luces y pasar",
+        "option_uuid": "ef2cce2d"
+      }
+    }
+  },
+  {
+    "id": 84,
+    "title": "Para la mejor circulación, los conductores de vehículos automotores, harán las señales siguientes para indicar modificación de carril, viraje o giro, durante el día y la noche, para virar a la izquierda harán lo siguiente:",
+    "options": {
+      "wrong1": {
+        "text": "Pitar, sacar la mano y acelerar",
+        "option_uuid": "db515b45"
+      },
+      "correct": {
+        "text": "Alejarse de la acera avanzando hasta acercarse lo más que se pueda al centro de la vía, indicando la maniobra respectiva, con la luz direccional izquierda",
+        "option_uuid": "1d5a581f"
+      },
+      "wrong2": {
+        "text": "Sacar la mano derecha, hacer señales de que va a cruzar y acelerar",
+        "option_uuid": "383ef0e3"
+      }
+    }
+  },
+  {
+    "id": 85,
+    "title": "Los vehículos que transportan los materiales peligrosos además de lo establecido en los tratados internacionales ¿Deben portar un permiso de la dirección de transporte terrestre y tránsito?",
+    "options": {
+      "correct": {
+        "text": "Sí",
+        "option_uuid": "4fd1d67e"
+      },
+      "wrong1": {
+        "text": "No",
+        "option_uuid": "15e676ce"
+      }
+    }
+  },
+  {
+    "id": 86,
+    "title": "¿A cuantos vehículos que circulen en la misma dirección les puede rebasar a la vez?",
+    "options": {
+      "wrong1": {
+        "text": "Tres vehículos",
+        "option_uuid": "439b8ff8"
+      },
+      "correct": {
+        "text": "Dos vehículos",
+        "option_uuid": "9e1730b4"
+      }
+    }
+  },
+  {
+    "id": 87,
+    "title": "Los conductores de vehículos pesados o de tránsito lento están obligados a:",
+    "options": {
+      "wrong1": {
+        "text": "Ceder el paso lo más rápido posible",
+        "option_uuid": "fde2bae5"
+      },
+      "correct": {
+        "text": "Ceder el paso a los vehículos más rapidos y en las carreteras con 2 carriles o más, deberán de transitar estrictamente por el lado derecho",
+        "option_uuid": "9ab43bca"
+      }
+    }
+  },
+  {
+    "id": 88,
+    "title": "Todo vehículo que circule por la vía pública deberá acatar la disposición en relación con la distancia respecto al vehículo que va adelante",
+    "options": {
+      "correct": {
+        "text": "Deberá mantener una distancia de seguridad que garantice la detención oportuna en caso de que, el que lo procede frene intempestivamente",
+        "option_uuid": "c93cb39c"
+      },
+      "wrong1": {
+        "text": "El conductor debe de ser muy habilidoso",
+        "option_uuid": "fd11e37b"
+      }
+    }
+  },
+  {
+    "id": 89,
+    "title": "¿Desde cuando queda prohibida la circulación de vehículos sin las luces reglamentarias respectivas?",
+    "options": {
+      "wrong1": {
+        "text": "Desde las 6 PM",
+        "option_uuid": "4135f308"
+      },
+      "correct": {
+        "text": "Desde media hora antes de la hora natural del anochecer y hasta media hora despues de la hora natural del amanecer",
+        "option_uuid": "4e77d0e6"
+      }
+    }
+  },
+  {
+    "id": 90,
+    "title": "Todo motorista deberá de llevar consigo en original:",
+    "options": {
+      "wrong1": {
+        "text": "DUI y NIT",
+        "option_uuid": "d170a71d"
+      },
+      "correct": {
+        "text": "Licencia de conducir y Tarjeta de circulación",
+        "option_uuid": "93972462"
+      }
+    }
+  },
+  {
+    "id": 91,
+    "title": "Se considera conductor temerario:",
+    "options": {
+      "wrong1": {
+        "text": "Conducir en estado de ebriedad o haber consumido drogas",
+        "option_uuid": "779c7ba1"
+      },
+      "wrong2": {
+        "text": "No respetar altos o semáforos en rojo",
+        "option_uuid": "8993964b"
+      },
+      "wrong3": {
+        "text": "Los conductores que utilicen dispositivos del tipo antirradar",
+        "option_uuid": "facee17e"
+      },
+      "correct": {
+        "text": "Todas las respuestas son correctas",
+        "option_uuid": "3b643402"
+      }
+    }
+  },
+  {
+    "id": 92,
+    "title": "Cuando un vehículo debe estacionarse en carreteras ya sea por desperfectos u otra razón deberá hacerlo:",
+    "options": {
+      "correct": {
+        "text": "A la derecha de su dirección",
+        "option_uuid": "53a075fe"
+      },
+      "wrong1": {
+        "text": "A la izquierda de su dirección",
+        "option_uuid": "9cf6e8fe"
+      }
+    }
+  },
+  {
+    "id": 93,
+    "title": "Todos los vehículos deberán estar provistos de por lo menos:",
+    "options": {
+      "wrong1": {
+        "text": "Extintor de incendios",
+        "option_uuid": "68956e2a"
+      },
+      "wrong2": {
+        "text": "Luces intermitentes",
+        "option_uuid": "9ae10875"
+      },
+      "wrong3": {
+        "text": "Triángulo o conoc reflexivos",
+        "option_uuid": "0ef7ea3d"
+      },
+      "correct": {
+        "text": "Todas las respuestas son correctas",
+        "option_uuid": "1d9f1f50"
+      }
+    }
+  },
+  {
+    "id": 94,
+    "title": "Todos lo vehículos deben llevar las luces encendidads cuando:",
+    "options": {
+      "wrong1": {
+        "text": "En los túneles",
+        "option_uuid": "6455e76e"
+      },
+      "wrong2": {
+        "text": "Las motocicletas que circulen por cualquier vía",
+        "option_uuid": "63ce2b15"
+      },
+      "wrong3": {
+        "text": "Los que circulen por un carril visible",
+        "option_uuid": "5635ac27"
+      },
+      "correct": {
+        "text": "Todas las respuestas son correctas",
+        "option_uuid": "887a04ec"
+      }
+    }
+  },
+  {
+    "id": 95,
+    "title": "La multa \"Estacionarse formando doble fila\" será de:",
+    "options": {
+      "correct": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "22a905de"
+      },
+      "wrong1": {
+        "text": "500 colones o $57.14 dólares",
+        "option_uuid": "dfc4b166"
+      },
+      "wrong2": {
+        "text": "100 colones o $11.43 dólares",
+        "option_uuid": "52900ffe"
+      }
+    }
+  },
+  {
+    "id": 96,
+    "title": "La multa \"Estacionar el vehículo en área exclusiva para minusválidos o mujeres embarazadas\" será de:",
+    "options": {
+      "wrong1": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "10070953"
+      },
+      "wrong2": {
+        "text": "500 colones o $57.14 dólares",
+        "option_uuid": "1842f16f"
+      },
+      "correct": {
+        "text": "100 colones o $11.43 dólares",
+        "option_uuid": "52d3509a"
+      }
+    }
+  },
+  {
+    "id": 97,
+    "title": "¿Cuál es el nombre de esta señal?",
+    "image": "lookout.svg",
+    "options": {
+      "wrong1": {
+        "text": "Montañas",
+        "option_uuid": "74d96336"
+      },
+      "correct": {
+        "text": "Mirador, vista panorámica",
+        "option_uuid": "9295889f"
+      },
+      "wrong2": {
+        "text": "Escalera",
+        "option_uuid": "0be736ca"
+      }
+    }
+  },
+  {
+    "id": 98,
+    "title": "¿Cuál es el nombre de esta señal?",
+    "image": "archeological-site.svg",
+    "options": {
+      "wrong1": {
+        "text": "Tikal",
+        "option_uuid": "fde6568c"
+      },
+      "wrong2": {
+        "text": "Tazumal",
+        "option_uuid": "ef2c7750"
+      },
+      "wrong3": {
+        "text": "Sitio Turístico",
+        "option_uuid": "facbaa0e"
+      },
+      "correct": {
+        "text": "Sitio Arqueológico",
+        "option_uuid": "291f3974"
+      }
+    }
+  },
+  {
+    "id": 99,
+    "title": "¿A qué edad se puede solicitar la licencia pesada?",
+    "options": {
+      "wrong1": {
+        "text": "15 años",
+        "option_uuid": "8c6914e2"
+      },
+      "wrong2": {
+        "text": "18 años",
+        "option_uuid": "a1ca0d54"
+      },
+      "correct": {
+        "text": "21 años",
+        "option_uuid": "12da3233"
+      },
+      "wrong3": {
+        "text": "25 años",
+        "option_uuid": "e6060a66"
+      }
+    }
+  },
+  {
+    "id": 100,
+    "title": "¿A qué edad se puede solicitar la licencia juvenil?",
+    "options": {
+      "correct": {
+        "text": "15 años",
+        "option_uuid": "8981defd"
+      },
+      "wrong1": {
+        "text": "20 años",
+        "option_uuid": "1ce6f7b2"
+      },
+      "wrong2": {
+        "text": "21 años",
+        "option_uuid": "b619750c"
+      }
+    }
+  },
+  {
+    "id": 101,
+    "title": "¿Cuáles son los requisitos para obtener la licencia por primera vez?",
+    "options": {
+      "wrong1": {
+        "text": "Saber leer o escribir",
+        "option_uuid": "b3b8314e"
+      },
+      "wrong2": {
+        "text": "Los exámenes visual, psicológico, teórico y práctico",
+        "option_uuid": "8ae0467d"
+      },
+      "wrong3": {
+        "text": "Práctica en la conducción de los vehículos para cada tipo de licencia",
+        "option_uuid": "575655e5"
+      },
+      "correct": {
+        "text": "Todas las respuestas son correctas",
+        "option_uuid": "61aaedfe"
+      }
+    }
+  }
+]

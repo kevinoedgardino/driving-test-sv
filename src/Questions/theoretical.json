@@ -1,0 +1,1518 @@
+[
+  {
+    "id": 1,
+    "title": "¿El Reglamento General de Tránsito y Seguridad Vial tiene por objeto desarrollar lo establecido en?",
+    "options": {
+      "wrong1": {
+        "text": "La ley de urbanismo de El Salvador",
+        "option_uuid": "f055a023"
+      },
+      "correct": {
+        "text": "La ley de transporte terrestre, tránsito y seguridad víal",
+        "option_uuid": "e602286d"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "¿Las medidas necesarias en el reglamento general de transito y seguridad vial van encaminadas a?",
+    "options": {
+      "wrong1": {
+        "text": "Garantizar la seguridad de las personas",
+        "option_uuid": "dc5f3b0a"
+      },
+      "wrong2": {
+        "text": "Establecer el orden de la circulación",
+        "option_uuid": "883267e8"
+      },
+      "wrong3": {
+        "text": "Preveer los peligros que dan lugar al desarrollo",
+        "option_uuid": "9da3737d"
+      },
+      "correct": {
+        "text": "Todas las repuestas son correctas",
+        "option_uuid": "d36b378b"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "¿Que es una acera?",
+    "options": {
+      "correct": {
+        "text": "Es la parte elevada sobre el nivel de las calles y avenidas",
+        "option_uuid": "003e5b7a"
+      },
+      "wrong1": {
+        "text": "Zona de la carretera destinada a los vehículos",
+        "option_uuid": "f2ee26bd"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "¿Que es una boca calle?",
+    "options": {
+      "wrong1": {
+        "text": "Fin de la cuadra",
+        "option_uuid": "102d9ed8"
+      },
+      "correct": {
+        "text": "Línea imaginaria que separa el crucero de la vía",
+        "option_uuid": "1369709b"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "¿A la vía urbana cuya posición topografica esta determinada en los rumbos de norte a sur se le denomina?",
+    "options": {
+      "wrong1": {
+        "text": "Autopista",
+        "option_uuid": "5151d299"
+      },
+      "correct": {
+        "text": "Avenida",
+        "option_uuid": "b9cb0c88"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "¿A la vía urbana cuya posición topográfica esta determinada en los rumbos oriente y poniente se le denomina?",
+    "options": {
+      "wrong1": {
+        "text": "Carretera",
+        "option_uuid": "408c7737"
+      },
+      "correct": {
+        "text": "Calle",
+        "option_uuid": "49886289"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "Se considera calles o avenidas de doble vía",
+    "options": {
+      "correct": {
+        "text": "Aquellas por donde el transito puede realizarse en ambas direcciones",
+        "option_uuid": "9127451c"
+      },
+      "wrong1": {
+        "text": "Carreteras interurbanas",
+        "option_uuid": "70cfad34"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "¿Que es calzada?",
+    "options": {
+      "correct": {
+        "text": "Zona de la carretera destinada a la circulación de los vehículos",
+        "option_uuid": "491870cd"
+      },
+      "wrong1": {
+        "text": "Zona elevada de la carretera",
+        "option_uuid": "d978af24"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "title": "¿Que es un conductor?",
+    "options": {
+      "wrong1": {
+        "text": "Es aquella persona que tiene licencia",
+        "option_uuid": "a77abb46"
+      },
+      "correct": {
+        "text": "Es la persona que guía un vehículo automotor",
+        "option_uuid": "facbbe26"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "title": "¿Que es una señal horizontal?",
+    "options": {
+      "correct": {
+        "text": "Las marcas de pintura u otro material similar color amarillo o blanco que se graba o adhiere a la calzada",
+        "option_uuid": "b0ff6a6f"
+      },
+      "wrong1": {
+        "text": "Son dispositivos sujetos a la calle",
+        "option_uuid": "b455c85c"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "title": "¿Qué vehículos estan sujetos al reglamento general de tránsito y seguridad víal?",
+    "options": {
+      "wrong1": {
+        "text": "Aquellos destinados a circular por las vías publicas para el transporte de pasajeros",
+        "option_uuid": "40cae37a"
+      },
+      "wrong2": {
+        "text": "Aquellos destinados a circular por las vías publicas para el transporte de carga",
+        "option_uuid": "237e8c3f"
+      },
+      "wrong3": {
+        "text": "Aquellos que caminan sobre rieles",
+        "option_uuid": "d2874698"
+      },
+      "correct": {
+        "text": "Primera y segunda son correctas",
+        "option_uuid": "79877160"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "title": "¿Cuáles son los vehículos con matrícula nacional?",
+    "options": {
+      "wrong1": {
+        "text": "Son para uso de funcionarios",
+        "option_uuid": "df28f42e"
+      },
+      "correct": {
+        "text": "Son los de prioridad del estado destinado exclusivamente para atender los servicios públicos",
+        "option_uuid": "6c431cbe"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "title": "¿Cuáles son los vehículos particulares?",
+    "options": {
+      "correct": {
+        "text": "Son los de servicio privado o familiar",
+        "option_uuid": "1ab68171"
+      },
+      "wrong1": {
+        "text": "Son los vehículos de cuatro ruedas",
+        "option_uuid": "8f1d44aa"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "title": "¿Cuáles son los vehículos de alquiler?",
+    "options": {
+      "wrong1": {
+        "text": "Son los vehículos pesados",
+        "option_uuid": "ffbb9c67"
+      },
+      "correct": {
+        "text": "Son aquellos vehículos livianos de conductores autorizados para el transporte remunerado de personas",
+        "option_uuid": "c9187434"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "title": "¿Cuáles son los vehículos que llevarán solo una placa en la parte trasera en un lugar visible?",
+    "options": {
+      "wrong1": {
+        "text": "Microbuses",
+        "option_uuid": "e96f4df5"
+      },
+      "correct": {
+        "text": "Motocicletas",
+        "option_uuid": "30f10b45"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "title": "¿Cuales son las medidas de las placas para los vehículos automotores a excepción de las motocicletas?",
+    "options": {
+      "correct": {
+        "text": "30 x 15 cms",
+        "option_uuid": "8d6bc6e2"
+      },
+      "wrong1": {
+        "text": "18 x 16 cms",
+        "option_uuid": "6eb2371d"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "title": "¿El viceministerio de transporte determinará el año de renovación de las placas mediante acuerdo ejecutivo contemplándose en un lapso de?",
+    "options": {
+      "correct": {
+        "text": "Cinco años",
+        "option_uuid": "4ef6acec"
+      },
+      "wrong1": {
+        "text": "Dos años",
+        "option_uuid": "e872f259"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "title": "¿Las motocicletas, moto bicicleta deben llevar?",
+    "options": {
+      "wrong1": {
+        "text": "Una lámpara en la mano",
+        "option_uuid": "e9b3c72c"
+      },
+      "correct": {
+        "text": "Una lámpara de luz blanca en el frente visible cuando menos a cincuenta metros y una luz roja en la parte posterior",
+        "option_uuid": "77a36450"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "title": "¿Los vehículos que pertenecen al estado deberán ser inscritos en el registro público?",
+    "options": {
+      "wrong1": {
+        "text": "No",
+        "option_uuid": "dceba2d7"
+      },
+      "correct": {
+        "text": "Si",
+        "option_uuid": "38f07794"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "title": "¿La inscripción de los vehículos en el registro se hará únicamente con la extensión de?",
+    "options": {
+      "correct": {
+        "text": "La tarjeta de circulación",
+        "option_uuid": "d2095ff2"
+      },
+      "wrong1": {
+        "text": "Documento de compraventa",
+        "option_uuid": "8a46ee8e"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "title": "¿Cuáles son los vehículos que no están sujetos al registro vehicular?",
+    "options": {
+      "wrong1": {
+        "text": "Los taxistas",
+        "option_uuid": "38cf571f"
+      },
+      "correct": {
+        "text": "Los vehículos de tracción humana o animal",
+        "option_uuid": "e69a65f2"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "title": "Los fondos por pago de derecho de inscripción, traspasos y cancelación de las características de los vehículos deben ingresar a?",
+    "options": {
+      "wrong1": {
+        "text": "Fovial",
+        "option_uuid": "3df09e36"
+      },
+      "correct": {
+        "text": "Fondo general de la nación",
+        "option_uuid": "161332df"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "title": "¿El uso de los vehículos del estado se clasifica?",
+    "options": {
+      "correct": {
+        "text": "Discrecional y Administrativo General",
+        "option_uuid": "9e1feb39"
+      },
+      "wrong1": {
+        "text": "Todos son iguales",
+        "option_uuid": "60fadb2b"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "title": "¿El uso discrecional de los vehículos del estado se refiere a?",
+    "options": {
+      "correct": {
+        "text": "Será aquel que no tendrá restricciones para su uso en todo el tiempo",
+        "option_uuid": "0fc53e8d"
+      },
+      "wrong1": {
+        "text": "Será aquel de uso temporal",
+        "option_uuid": "d79a18d1"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "title": "¿A cuanto asciende la multa por utilizar vehículos del estado de uso administrativo en días no laborales?",
+    "options": {
+      "wrong1": {
+        "text": "300 colones o 34.29 dólares",
+        "option_uuid": "9ca8ce38"
+      },
+      "correct": {
+        "text": "100 colones o 11.43 dólares",
+        "option_uuid": "35601ae1"
+      },
+      "wrong2": {
+        "text": "500 colones o 57.14 dólares",
+        "option_uuid": "0cd1a36a"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "title": "Las personas naturales o jurídicas que se dedican a la venta de vehículos ¿Qué seguro deben tomar?",
+    "options": {
+      "wrong1": {
+        "text": "Seguro temporal",
+        "option_uuid": "483a87d2"
+      },
+      "correct": {
+        "text": "Seguro global",
+        "option_uuid": "17342991"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "title": "¿Cuál es el valor mínimo de la cobertura de un seguro para vehículos de carga hasta de tres toneladas?",
+    "options": {
+      "wrong1": {
+        "text": "5,000 colones o 570.68 dólares",
+        "option_uuid": "472ba51a"
+      },
+      "correct": {
+        "text": "15,000 colones o 1,712.03 dólares",
+        "option_uuid": "205d45b3"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "title": "¿Cuál es el tiempo de vigencia para el seguro obligatorio?",
+    "options": {
+      "correct": {
+        "text": "1 año",
+        "option_uuid": "e5e6a3d1"
+      },
+      "wrong1": {
+        "text": "5 años",
+        "option_uuid": "42f704eb"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "title": "¿A que distancia como mínimo deben poder verse los dispositivos electrónicos de los vehículos de carga para hacer los virajes o giros?",
+    "options": {
+      "wrong1": {
+        "text": "40 Mts. mínimo",
+        "option_uuid": "8ea6520e"
+      },
+      "correct": {
+        "text": "30 Mts. mínimo",
+        "option_uuid": "80c2ad12"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "title": "Cuando por fuerza mayor se debe atravesar un vehículo para descargar material en una vía pública, se debe hacer lo siguiente",
+    "options": {
+      "wrong1": {
+        "text": "Descargar lo más rapido posible",
+        "option_uuid": "2d636111"
+      },
+      "correct": {
+        "text": "Debe estar presente un agente de transito",
+        "option_uuid": "d43522fb"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "title": "¿A qué distancia del borde de la acera deben hacer la parada los vehículos de transporte colectivo",
+    "options": {
+      "correct": {
+        "text": "A 30 centímetros",
+        "option_uuid": "3b47c489"
+      },
+      "wrong1": {
+        "text": "A 40 centímetros",
+        "option_uuid": "84a614c7"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "title": "¿Una de las prohibiciones para los vehículos del transporte colectivo de pasajeros es?",
+    "options": {
+      "correct": {
+        "text": "Llevar las puertas abiertas cuando el vehículo se encuentra en marcha",
+        "option_uuid": "c2672f93"
+      },
+      "wrong1": {
+        "text": "No existe prohibiciones",
+        "option_uuid": "18539a5d"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "title": "¿El examen de revisión técnica vehicular obligatorio para los vehículos de transporte colectivo de pasajeros, vehículos pesados y del estado se hará?",
+    "options": {
+      "wrong1": {
+        "text": "1 vez cada año",
+        "option_uuid": "a6277e0e"
+      },
+      "correct": {
+        "text": "2 veces cada año",
+        "option_uuid": "439e9ddb"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "title": "¿Quien autoriza a los talleres que realizan las revisiones mecánicas obligatorias?",
+    "options": {
+      "wrong1": {
+        "text": "El estado",
+        "option_uuid": "599e2d30"
+      },
+      "correct": {
+        "text": "El viceministerio de transporte a través de la comisión reguladora de transporte terrestre",
+        "option_uuid": "1019f712"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "title": "¿Los talleres de automotores podrán hacer cambios de motor, pintura y carrocería con previa autorización de?",
+    "options": {
+      "correct": {
+        "text": "Dirección General de Transito",
+        "option_uuid": "c5dce2e7"
+      },
+      "wrong1": {
+        "text": "La PNC",
+        "option_uuid": "4cbb6b22"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "title": "¿Los vehículos que hayan sufrido un desperfecto mecánico podrán permanecer en la vía pública?",
+    "options": {
+      "wrong1": {
+        "text": "Si podrá",
+        "option_uuid": "d5717073"
+      },
+      "correct": {
+        "text": "No podrá",
+        "option_uuid": "b9774024"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "title": "¿A cuantos centímetros del borde de la acera debemos estacionar los vehículos?",
+    "options": {
+      "wrong1": {
+        "text": "40 centímetros",
+        "option_uuid": "022b59b6"
+      },
+      "correct": {
+        "text": "30 centímetros",
+        "option_uuid": "0732d63e"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "title": "¿Cualquier persona que pretenda utilizar la vía pública para un evento debe solicitar permiso a?",
+    "options": {
+      "correct": {
+        "text": "Dirección General de Tránsito",
+        "option_uuid": "d8d13d4a"
+      },
+      "wrong1": {
+        "text": "La alcaldía que corresponda",
+        "option_uuid": "2374ed25"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "title": "¿En qué momento el peatón tiene el derecho de paso en las vías públicas?",
+    "options": {
+      "wrong1": {
+        "text": "Cuando el semáforo esta en rojo, o no haya ningún vehículo transitando por la vía",
+        "option_uuid": "1ec7332b"
+      },
+      "wrong2": {
+        "text": "Nunca tiene derecho de paso",
+        "option_uuid": "f953818e"
+      },
+      "correct": {
+        "text": "En todo momento, siempre y cuando atienda lo indicado en la señalización víal",
+        "option_uuid": "370e91cd"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "title": "¿A qué lado de la vía debemos circular con nuestros vehículos?",
+    "options": {
+      "correct": {
+        "text": "Al lado derecho de la vía",
+        "option_uuid": "67c02a39"
+      },
+      "wrong1": {
+        "text": "Al lado izquierdo de la vía",
+        "option_uuid": "ddbbd863"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "title": "Al llegar a una intersección y esta carezca de una señal de ALTO🤚, ¿Quién tiene derecho de vía preferente?",
+    "options": {
+      "wrong1": {
+        "text": "La avenida sobre la calle",
+        "option_uuid": "e5f7b6a2"
+      },
+      "correct": {
+        "text": "La calle sobre la avenida excepto cuando esta sea de mayor jerarquía",
+        "option_uuid": "cabac5d3"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "title": "¿A qué vehículos debemos ceder el paso al ir conduciendo?",
+    "options": {
+      "wrong1": {
+        "text": "No se debe ceder el paso",
+        "option_uuid": "41063b94"
+      },
+      "correct": {
+        "text": "Los vehículos de bomberos, ambulancias y los que llevan sirena por emergencia",
+        "option_uuid": "8df4f3cf"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "title": "¿Cómo debemos estacionar el vehículo en una pendiente descendente?",
+    "options": {
+      "wrong1": {
+        "text": "No debe aplicar freno de mano",
+        "option_uuid": "4575ea58"
+      },
+      "correct": {
+        "text": "Aplicar el freno de mano y girar las ruedas delanteras hacia la cuneta",
+        "option_uuid": "a7ed797b"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "title": "¿Como norma general en las curvas y pendientes de reducida visibilidad los vehículos circulan?",
+    "options": {
+      "correct": {
+        "text": "Por el lado derecho de la vía",
+        "option_uuid": "e9c3b525"
+      },
+      "wrong1": {
+        "text": "Por el lado izquierdo de la vía",
+        "option_uuid": "66120682"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "title": "¿En las vías de doble sentido de circulacíon y tres carriles separados por marcas longitudinales discontinuas debemos circular por el carril?",
+    "options": {
+      "wrong1": {
+        "text": "Por el carril izquierdo",
+        "option_uuid": "3cf4b7b1"
+      },
+      "correct": {
+        "text": "Por el carril derecho",
+        "option_uuid": "77feee09"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "title": "¿Qué clase de vehículos no pueden circular por vías pavimentadas?",
+    "options": {
+      "correct": {
+        "text": "Los vehiculos de tracción animal",
+        "option_uuid": "bbf39d1d"
+      },
+      "wrong1": {
+        "text": "Camiones",
+        "option_uuid": "a2724e63"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "title": "Todo conductor esta obligado a:",
+    "options": {
+      "wrong1": {
+        "text": "Respetar los limites de velocidad",
+        "option_uuid": "9c79fa49"
+      },
+      "wrong2": {
+        "text": "Respetar las características y el estado de las vías",
+        "option_uuid": "2778eeea"
+      },
+      "wrong3": {
+        "text": "Conocer las condiciones meteorológicas ambientales",
+        "option_uuid": "81613798"
+      },
+      "correct": {
+        "text": "Todas son correctas",
+        "option_uuid": "31a8ad2c"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "title": "¿Quien establece las velocidades máximas y mínimas de circulación vehicular?",
+    "options": {
+      "wrong1": {
+        "text": "El presidente",
+        "option_uuid": "cdbfbcd6"
+      },
+      "correct": {
+        "text": "La unidad de ingeniería de tránsito del viceministerio de transporte",
+        "option_uuid": "d7047cdb"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "title": "En los tramos de la vía que por su estreches sea imposible o muy difícil el paso simultáneo de dos vehículos que circulen en sentido opuesto donde no haya señalización expresa ¿Quién tiene derecho de paso?",
+    "options": {
+      "wrong1": {
+        "text": "El más temerario",
+        "option_uuid": "8460fe12"
+      },
+      "correct": {
+        "text": "El que hubiera entrado primero",
+        "option_uuid": "2112608e"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "title": "¿No se podrá virar en U",
+    "options": {
+      "wrong1": {
+        "text": "En los pasos a niveles",
+        "option_uuid": "bef42c7a"
+      },
+      "wrong2": {
+        "text": "En un túnel",
+        "option_uuid": "ed5617ca"
+      },
+      "wrong3": {
+        "text": "En las carreteras o lugares demarcados con línea central amarilla",
+        "option_uuid": "15b4bfd1"
+      },
+      "correct": {
+        "text": "Todas son correctas",
+        "option_uuid": "7d34ea9b"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "title": "La parada o estacionamiento de un vehículo en vías interurbanas deberá efectuarse:",
+    "options": {
+      "correct": {
+        "text": "En el lado derecho de la vía",
+        "option_uuid": "d7d137cd"
+      },
+      "wrong1": {
+        "text": "En cualquer lado de la vía",
+        "option_uuid": "a549755b"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "title": "Queda prohibido parar y estacionrse en:",
+    "options": {
+      "wrong1": {
+        "text": "Curvas, elevaciones de pendientes en visibilidad reducida y en túneles",
+        "option_uuid": "70dfc5f6"
+      },
+      "wrong2": {
+        "text": "En los pasos a nivel y paso peatonal",
+        "option_uuid": "f5f80714"
+      },
+      "wrong3": {
+        "text": "En las intersecciones y sus orillas",
+        "option_uuid": "66429636"
+      },
+      "correct": {
+        "text": "Todas son correctas",
+        "option_uuid": "4274df89"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "title": "Cuándo el motorista quiera aminorar la marcha del vehículo o sea detenerse o cualquier otra circunstancia hará lo siguiente:",
+    "options": {
+      "wrong1": {
+        "text": "Sacar la mano para parar",
+        "option_uuid": "4689c944"
+      },
+      "correct": {
+        "text": "Presionar suavemente varias veces el freno para que la luz trasera de stop se encienda y poner intermitentes",
+        "option_uuid": "64abc5f7"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "title": "Dentro de la circulación vehicular ¿Qué reglas deberá tener presente y cumplir?",
+    "options": {
+      "wrong1": {
+        "text": "No podrá sobrepasar a otro vehículo sin antes haberlo indicado",
+        "option_uuid": "4ca7b4eb"
+      },
+      "wrong2": {
+        "text": "No deberá conducirce describiendo curvas o atravesar el vehículo",
+        "option_uuid": "eff7b8d2"
+      },
+      "wrong3": {
+        "text": "No conducir con las luces altas por la noche",
+        "option_uuid": "296c1dcf"
+      },
+      "correct": {
+        "text": "Todas son correctas",
+        "option_uuid": "840f8b45"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "title": "¿A qué distancia debe dejarse el vehículo estacionado de las esquinas de las intersecciones urbanas y de los hidrantes públicos?",
+    "options": {
+      "correct": {
+        "text": "A menos de 10 metros",
+        "option_uuid": "453b068f"
+      },
+      "wrong1": {
+        "text": "No esta regulado",
+        "option_uuid": "64ec4ad4"
+      }
+    }
+  },
+  {
+    "id": 56,
+    "title": "Para realizar la maniobra de adelantamiento de un vehículo todo conductor deberá:",
+    "options": {
+      "correct": {
+        "text": "Cerciorarse que el lado izquierdo de la carretera sea claramente visible",
+        "option_uuid": "debc85b6"
+      },
+      "wrong1": {
+        "text": "Acelerar para sobrepasar",
+        "option_uuid": "675d3634"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "title": "¿La luz baja del vehículo se utiliza?",
+    "options": {
+      "correct": {
+        "text": "Solamente en zonas urbanas",
+        "option_uuid": "e1c7ed74"
+      },
+      "wrong1": {
+        "text": "En cualquier zona",
+        "option_uuid": "ed7f3f4f"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "title": "¿La luz baja del vehículo se utilizará?",
+    "options": {
+      "wrong1": {
+        "text": "En zonas urbanas",
+        "option_uuid": "a3ee3923"
+      },
+      "wrong2": {
+        "text": "En carreteras cuando el sentido es contrario",
+        "option_uuid": "b32b994a"
+      },
+      "wrong3": {
+        "text": "Cuando transita atrás de otro vehículo",
+        "option_uuid": "1df8bf7d"
+      },
+      "correct": {
+        "text": "Todas son correctas",
+        "option_uuid": "e41a1a24"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "title": "¿Tendrá prioridad de paso con respeto a los demás vehículos?",
+    "options": {
+      "wrong1": {
+        "text": "Los que circulan sobre rieles",
+        "option_uuid": "c05b0a9d"
+      },
+      "wrong2": {
+        "text": "Los de emergencia",
+        "option_uuid": "f42090d7"
+      },
+      "wrong3": {
+        "text": "Los que circulan sobre una carretera primaria",
+        "option_uuid": "75f40057"
+      },
+      "correct": {
+        "text": "Todas son correctas",
+        "option_uuid": "1504cb05"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "title": "Al aproximarse a un redondel los conductores deberán seguir las siguientes indicaciones:",
+    "options": {
+      "correct": {
+        "text": "El vehículo que viaje dentro de un redondel o rotonda tiene prioridad de paso sobre el que dispone a entrar",
+        "option_uuid": "b236d158"
+      },
+      "wrong1": {
+        "text": "Debe ingresar rápido al redondel",
+        "option_uuid": "2d806378"
+      }
+    }
+  },
+  {
+    "id": 61,
+    "title": "Según el reglamento general de tránsito los vehículos oficiales son para uso de?",
+    "options": {
+      "wrong1": {
+        "text": "La Policía Nacional Civil",
+        "option_uuid": "78285aea"
+      },
+      "correct": {
+        "text": "Los funcionarios públicos que tienen derecho de acuerdo al puesto que desempeñan",
+        "option_uuid": "270554a6"
+      }
+    }
+  },
+  {
+    "id": 62,
+    "title": "¿Cuál es la velocidad dentro de un redondel?",
+    "options": {
+      "correct": {
+        "text": "30 Kilómetros",
+        "option_uuid": "ff17ae21"
+      },
+      "wrong1": {
+        "text": "20 Kilómetros",
+        "option_uuid": "c575a275"
+      }
+    }
+  },
+  {
+    "id": 63,
+    "title": "¿Si se va a abandonar el redondel por la primera salida usted debe?",
+    "options": {
+      "wrong1": {
+        "text": "Salir cuando quiera",
+        "option_uuid": "8700d148"
+      },
+      "correct": {
+        "text": "Salir por el extremo derecho e indicándolo con la direccional",
+        "option_uuid": "0fb416df"
+      }
+    }
+  },
+  {
+    "id": 64,
+    "title": "¿Qué no está permitido hacer dentro de un redondel?",
+    "options": {
+      "correct": {
+        "text": "Cambiar de carril excepto para entrar o salir o rebasar",
+        "option_uuid": "12283df5"
+      },
+      "wrong1": {
+        "text": "Circular",
+        "option_uuid": "700e894c"
+      }
+    }
+  },
+  {
+    "id": 65,
+    "title": "Los vehículos que circulen en cualquier sentido de la vía y necesitan realizar un giro a la izquierda ¿A cuantos metros accionarán la luz direccional?",
+    "options": {
+      "wrong1": {
+        "text": "100 metros",
+        "option_uuid": "a55972d5"
+      },
+      "correct": {
+        "text": "50 metros",
+        "option_uuid": "b462d7d1"
+      }
+    }
+  },
+  {
+    "id": 66,
+    "title": "Los conductores de motocicletas de todo tipo y clase deberán",
+    "options": {
+      "wrong1": {
+        "text": "Usar casco de seguridad",
+        "option_uuid": "611405ec"
+      },
+      "wrong2": {
+        "text": "Conducir con las luces encendidas",
+        "option_uuid": "c099962e"
+      },
+      "wrong3": {
+        "text": "Usar vestimenta de cuero",
+        "option_uuid": "cbd4ddc2"
+      },
+      "correct": {
+        "text": "Primera y segunda son correctas",
+        "option_uuid": "e0aabcfc"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "title": "¿Quiénes deberán rendir fianza de 5,000 colones o $571 dolares de daños a terceros?",
+    "options": {
+      "wrong1": {
+        "text": "Motorista de oficio",
+        "option_uuid": "fd03c354"
+      },
+      "wrong2": {
+        "text": "Conductores juveniles",
+        "option_uuid": "80f14747"
+      },
+      "wrong3": {
+        "text": "Todo conductor",
+        "option_uuid": "db5fba43"
+      },
+      "correct": {
+        "text": "Primera y segunda son correctas",
+        "option_uuid": "47a5ee99"
+      }
+    }
+  },
+  {
+    "id": 68,
+    "title": "Cuales de las siguientes enfermedades o limitaciones físicas pueden imposibilitar la conducción de un vehículo?",
+    "options": {
+      "wrong1": {
+        "text": "Epilepsia",
+        "option_uuid": "fd477e53"
+      },
+      "wrong2": {
+        "text": "Ceguera total o parcial",
+        "option_uuid": "931e1d0c"
+      },
+      "wrong3": {
+        "text": "Sordera total",
+        "option_uuid": "c0aaeeaa"
+      },
+      "correct": {
+        "text": "Todas son correctas",
+        "option_uuid": "3359a61a"
+      }
+    }
+  },
+  {
+    "id": 69,
+    "title": "Las personas con licencia o cualquier otro tipo de autorización para conducir vehículo automotor expedida en el extranjero podrá utilizarlo si demuestra una permanencia en el país menor a?",
+    "options": {
+      "wrong1": {
+        "text": "30 días",
+        "option_uuid": "e8b17d4f"
+      },
+      "correct": {
+        "text": "90 días",
+        "option_uuid": "ceaef640"
+      }
+    }
+  },
+  {
+    "id": 70,
+    "title": "Para el transporte en automotores de menores de dos años y cuyo peso no exceda quince kilogramos deben proveerse de?",
+    "options": {
+      "correct": {
+        "text": "Silla de seguridad debidamente sujetada por el cinturón de seguridad",
+        "option_uuid": "8f438fea"
+      },
+      "wrong1": {
+        "text": "Coche",
+        "option_uuid": "dc98fdcd"
+      }
+    }
+  },
+  {
+    "id": 71,
+    "title": "Los parabrisas delanteros pueden ser polarizados de fabrica o instalación no mayor a:",
+    "options": {
+      "correct": {
+        "text": "35%",
+        "option_uuid": "993fae74"
+      },
+      "wrong1": {
+        "text": "25%",
+        "option_uuid": "e0098724"
+      }
+    }
+  },
+  {
+    "id": 72,
+    "title": "De qué color deben ser las lámparas y banderolas por la noche o en el día por motivo de construcción",
+    "options": {
+      "wrong1": {
+        "text": "Amarilla",
+        "option_uuid": "9410deb0"
+      },
+      "correct": {
+        "text": "Roja",
+        "option_uuid": "181a7b94"
+      }
+    }
+  },
+  {
+    "id": 73,
+    "title": "Todo conductor que tenga suspendida su licencia y se sorprendiera manejando se hará acreedor a:",
+    "options": {
+      "correct": {
+        "text": "Una multa de 100 colones o $11.43 dólares",
+        "option_uuid": "3909570e"
+      },
+      "wrong1": {
+        "text": "Una multa de 300 colones o $34.29 dólares",
+        "option_uuid": "2f5c0392"
+      }
+    }
+  },
+  {
+    "id": 74,
+    "title": "Todo conductor que tramite nueva licencia sabiendo que la misma le ha sido decomisada se hará acreedor a:",
+    "options": {
+      "correct": {
+        "text": "Una multa de 1,000 colones o $114.09 dólares",
+        "option_uuid": "833ad96e"
+      },
+      "wrong1": {
+        "text": "Una multa de 300 colones 0 $34.23 dólares",
+        "option_uuid": "14ec297f"
+      }
+    }
+  },
+  {
+    "id": 75,
+    "title": "A qué lado deben tener el timon los vehículos",
+    "options": {
+      "wrong1": {
+        "text": "Al derecho",
+        "option_uuid": "8e6698f4"
+      },
+      "correct": {
+        "text": "Al izquierdo",
+        "option_uuid": "2a625b85"
+      }
+    }
+  },
+  {
+    "id": 76,
+    "title": "En el parabrisas delantero de los vehículos ¿De cuanto no debe exceder de ancho la franja de polarización en sus vidrios?",
+    "options": {
+      "correct": {
+        "text": "De 15 centímetros",
+        "option_uuid": "39cf5b67"
+      },
+      "wrong1": {
+        "text": "De 30 centímetros",
+        "option_uuid": "0ae5ef1a"
+      }
+    }
+  },
+  {
+    "id": 77,
+    "title": "Las placas de identificación y la respectiva tarjeta de circulación de todos los vehículos serán autorizadas, extendidas y controladas por",
+    "options": {
+      "wrong1": {
+        "text": "La Policía Nacional Civil",
+        "option_uuid": "e2ed24ac"
+      },
+      "correct": {
+        "text": "La Dirección General de Tránsito",
+        "option_uuid": "1dbec915"
+      }
+    }
+  },
+  {
+    "id": 78,
+    "title": "¿Las medidas, color y clase de las placas así como su fecha de vencimiento serán establecidas por?",
+    "options": {
+      "wrong1": {
+        "text": "Ministerio de hacienda",
+        "option_uuid": "c72acf12"
+      },
+      "correct": {
+        "text": "Viceministerio de transporte",
+        "option_uuid": "7248af1e"
+      }
+    }
+  },
+  {
+    "id": 79,
+    "title": "Para los efectos de la Ley de Transporte Terrestre, Tránsito y Seguridad Víal el uso de los vehículos del estado se clasifican en la siguiente manera:",
+    "options": {
+      "wrong1": {
+        "text": "Administrativos",
+        "option_uuid": "c8eb7f47"
+      },
+      "correct": {
+        "text": "Discrecional y administrativo general",
+        "option_uuid": "b0ebe8ac"
+      }
+    }
+  },
+  {
+    "id": 80,
+    "title": "Dentro de los vehículos propiedad del estado considerados de uso discrecional están comprendidos:",
+    "options": {
+      "correct": {
+        "text": "Los del órgano legislativo",
+        "option_uuid": "0701223a"
+      },
+      "wrong1": {
+        "text": "Los de las municipalidades",
+        "option_uuid": "ea30acd3"
+      }
+    }
+  },
+  {
+    "id": 81,
+    "title": "Uno de los requisitos de los vehículos que se dedican al servicio colectivo de pasajeros es:",
+    "options": {
+      "wrong1": {
+        "text": "Deben ser de color azul",
+        "option_uuid": "0c73ba41"
+      },
+      "correct": {
+        "text": "Deben tener placas de identificación correspondiente al tipo de servicio",
+        "option_uuid": "afcaa778"
+      }
+    }
+  },
+  {
+    "id": 82,
+    "title": "Los vehículos dedicados al servicio de transporte público de pasajeros no debrán exceder de cuántos años de haber sido fabricados:",
+    "options": {
+      "wrong1": {
+        "text": "10 años de fabricación",
+        "option_uuid": "5b156b11"
+      },
+      "correct": {
+        "text": "20 años de fabricación",
+        "option_uuid": "eb83a30e"
+      }
+    }
+  },
+  {
+    "id": 83,
+    "title": "El sistema víal se clasifica en:",
+    "options": {
+      "correct": {
+        "text": "Especiales, primarias y secundarias",
+        "option_uuid": "215dcf1f"
+      },
+      "wrong1": {
+        "text": "Calles urbanas",
+        "option_uuid": "cb630225"
+      }
+    }
+  },
+  {
+    "id": 84,
+    "title": "¿Las aceras como parte del sistema víal son de uso exclusivo de?",
+    "options": {
+      "wrong1": {
+        "text": "Animales",
+        "option_uuid": "72ce499c"
+      },
+      "correct": {
+        "text": "Peatones",
+        "option_uuid": "5d08659b"
+      }
+    }
+  },
+  {
+    "id": 85,
+    "title": "¿Quién regula y controla las terminales del transporte colectivo?",
+    "options": {
+      "correct": {
+        "text": "El viceministerio de transporte a través de la dirección de transporte terrestre",
+        "option_uuid": "98dce70f"
+      },
+      "wrong1": {
+        "text": "La PNC",
+        "option_uuid": "cde6703f"
+      },
+      "wrong2": {
+        "text": "Los dueños de las rutas",
+        "option_uuid": "e54b4440"
+      }
+    }
+  },
+  {
+    "id": 86,
+    "title": "Por cuántos años se otorga la concesión para prestar el servicio de transporte colectivo de pasajeros escolares y especialidades?",
+    "options": {
+      "wrong1": {
+        "text": "2 años",
+        "option_uuid": "784c9701"
+      },
+      "correct": {
+        "text": "10 años prorrogables",
+        "option_uuid": "a3f26972"
+      }
+    }
+  },
+  {
+    "id": 87,
+    "title": "Según el arículo 48 el transporte de productos y materiales peligrosos es regulado por algún tratado?",
+    "options": {
+      "correct": {
+        "text": "Sí, según tratados internacionales",
+        "option_uuid": "d01fc00c"
+      },
+      "wrong1": {
+        "text": "No hay tratados",
+        "option_uuid": "3e631e43"
+      }
+    }
+  },
+  {
+    "id": 88,
+    "title": "La comisión reguladora de transporte terrestre esta integrada por",
+    "options": {
+      "wrong1": {
+        "text": "Alcalde y transportista",
+        "option_uuid": "6ea6246a"
+      },
+      "correct": {
+        "text": "Sector público, privado y usuario",
+        "option_uuid": "3a5d915e"
+      }
+    }
+  },
+  {
+    "id": 89,
+    "title": "En las calzadas pavimentadas de las vías es permitido el transito de semovientes aislados en manada o en rebaño aunque vaya custodiado por personas:",
+    "options": {
+      "correct": {
+        "text": "No, solamente se permitirá fuera de la calzada pavimentada",
+        "option_uuid": "2173ba7f"
+      },
+      "wrong1": {
+        "text": "Si, siempre que vaya custodiado",
+        "option_uuid": "4333a988"
+      }
+    }
+  },
+  {
+    "id": 90,
+    "title": "Qué instituciones serán las encargadas de autorizar, expedir y controlar las licencias para conducir vehículos automotores?",
+    "options": {
+      "wrong1": {
+        "text": "Sertracen",
+        "option_uuid": "0b63ddbf"
+      },
+      "correct": {
+        "text": "El viceministerio de transporte a través de la Direccion General de Tránsito",
+        "option_uuid": "0888319b"
+      }
+    }
+  },
+  {
+    "id": 91,
+    "title": "La licencia para conducir automotores podrá ser decomisada por cualquier agente de la Policía Nacional Civil cuando:",
+    "options": {
+      "wrong1": {
+        "text": "Cuando se encuentre vencida",
+        "option_uuid": "2547dffa"
+      },
+      "wrong2": {
+        "text": "Cuando ha ingerido alcohol",
+        "option_uuid": "e579ad04"
+      },
+      "wrong3": {
+        "text": "Cuando ha consumido droga",
+        "option_uuid": "dfca2c53"
+      },
+      "correct": {
+        "text": "Todas son correctas",
+        "option_uuid": "365d90eb"
+      }
+    }
+  },
+  {
+    "id": 92,
+    "title": "Es obligatorio los dispositivos fundamentales de seguridad en los vehículos tales como:",
+    "options": {
+      "wrong1": {
+        "text": "Extintor y triángulo",
+        "option_uuid": "a96387f2"
+      },
+      "wrong2": {
+        "text": "Sistema de luces",
+        "option_uuid": "31658e26"
+      },
+      "wrong3": {
+        "text": "Cinturón de seguridad",
+        "option_uuid": "a0878d26"
+      },
+      "correct": {
+        "text": "Todas son correctas",
+        "option_uuid": "6201fc6c"
+      }
+    }
+  },
+  {
+    "id": 93,
+    "title": "¿Se establece como norma general, el manejo a la ofensiva en toda la red víal",
+    "options": {
+      "correct": {
+        "text": "No",
+        "option_uuid": "29ae34b0"
+      },
+      "wrong1": {
+        "text": "Sí",
+        "option_uuid": "889e2514"
+      }
+    }
+  },
+  {
+    "id": 94,
+    "title": "¿Se establece como norma general, el manejo a la defensiva en toda la red víal?",
+    "options": {
+      "wrong1": {
+        "text": "No",
+        "option_uuid": "715c05e3"
+      },
+      "correct": {
+        "text": "Sí",
+        "option_uuid": "d22dfb7e"
+      }
+    }
+  },
+  {
+    "id": 95,
+    "title": "¿Cuál de las siguientes instituciones llevarán un registro técnico y estadístico de los accidentes de tránsito?",
+    "options": {
+      "wrong1": {
+        "text": "El COEN",
+        "option_uuid": "c927b6de"
+      },
+      "correct": {
+        "text": "La División de Tránsito Terrestre de la Policía Nacional Civil",
+        "option_uuid": "a3f9349e"
+      }
+    }
+  },
+  {
+    "id": 96,
+    "title": "¿Quienes serán los responsables de conservar en buen estado la red víal?",
+    "options": {
+      "wrong1": {
+        "text": "Los alcaldes municipales",
+        "option_uuid": "bc06ade0"
+      },
+      "correct": {
+        "text": "Los usuarios de la red víal del país",
+        "option_uuid": "2a017f8a"
+      }
+    }
+  },
+  {
+    "id": 97,
+    "title": "¿Para qué es utilizado el seguro obligatorio para toda clase de vehículos automotores?",
+    "options": {
+      "correct": {
+        "text": "Para responder por daños a terceros, ocasionados en accidentes",
+        "option_uuid": "a0b1cd20"
+      },
+      "wrong1": {
+        "text": "Para obtener licencia",
+        "option_uuid": "93db9046"
+      }
+    }
+  },
+  {
+    "id": 98,
+    "title": "La multa por \"Virar en U\" es de:",
+    "options": {
+      "wrong1": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "ef23a7d2"
+      },
+      "correct": {
+        "text": "100 colones o $11.43 dólares",
+        "option_uuid": "bed7c166"
+      }
+    }
+  },
+  {
+    "id": 99,
+    "title": "La multa por \"No portar tarjeta de circulación\" es de:",
+    "options": {
+      "correct": {
+        "text": "100 colones o $11.43 dólares",
+        "option_uuid": "ada6d46a"
+      },
+      "wrong1": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "a714f52a"
+      }
+    }
+  },
+  {
+    "id": 100,
+    "title": "La multa por \"No portar licencia de conducir\" es de:",
+    "options": {
+      "correct": {
+        "text": "100 colones o $11.43 dólares",
+        "option_uuid": "d0142a84"
+      },
+      "wrong1": {
+        "text": "300 colones o $34.29 dólares",
+        "option_uuid": "71855284"
+      }
+    }
+  }
+]

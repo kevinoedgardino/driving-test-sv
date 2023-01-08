@@ -1,0 +1,764 @@
+[
+  {
+    "id": 1,
+    "title": "Va conduciendo por la carretera, otros automovilistas de atrás le pitan y le hacen cambio de luz ¿Que hace?",
+    "options": {
+      "wrong1": {
+        "text": "Conduce más rapido",
+        "option_uuid": "92caffe7"
+      },
+      "correct": {
+        "text": "Se hace a su derecha y los deja pasar",
+        "option_uuid": "2da8bb71"
+      },
+      "wrong2": {
+        "text": "Reacciona",
+        "option_uuid": "2ce857e9"
+      },
+      "wrong3": {
+        "text": "Sigue su ritmo sin importar",
+        "option_uuid": "653322c9"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Se encuentra en un semáforo con intermitencia de luz verde para peatones",
+    "options": {
+      "wrong1": {
+        "text": "Sigue la marca con precaución",
+        "option_uuid": "6e3787e9"
+      },
+      "wrong2": {
+        "text": "Acelera y pasa antes que ellos",
+        "option_uuid": "849df396"
+      },
+      "correct": {
+        "text": "Tranquilamente espera a que pase el ultimo",
+        "option_uuid": "c7aa5473"
+      },
+      "wrong3": {
+        "text": "Espera impacientemente",
+        "option_uuid": "08d34a75"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "Cuando tengo prisa:",
+    "options": {
+      "correct": {
+        "text": "Me muestro un poco correcto con los demás peatones",
+        "option_uuid": "c4e4e8ae"
+      },
+      "wrong1": {
+        "text": "No presto demasiada atención a las señales",
+        "option_uuid": "6b456537"
+      },
+      "wrong2": {
+        "text": "Soy más impaciente",
+        "option_uuid": "2f87e961"
+      },
+      "wrong3": {
+        "text": "Insulto a otros conductores aunque no lo oigan",
+        "option_uuid": "8ad3fde1"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "Se encuentra en un semáforo con intermitente de luz verde para peatones",
+    "options": {
+      "wrong1": {
+        "text": "Se enfurece y toca la bocina",
+        "option_uuid": "744fb59f"
+      },
+      "correct": {
+        "text": "Simplemente espera y cambia la ruta",
+        "option_uuid": "ef4fcebf"
+      },
+      "wrong2": {
+        "text": "Si lleva mucha prisa procura buscar una solución y deja el vehículo parqueado",
+        "option_uuid": "ec773ef2"
+      },
+      "wrong3": {
+        "text": "Se impacienta y toca la bocina",
+        "option_uuid": "7f32a5d1"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "Critico y reclamo sin piedad la actuación de los conductores:",
+    "options": {
+      "wrong1": {
+        "text": "Principiantes o inexpertos",
+        "option_uuid": "550aac16"
+      },
+      "wrong2": {
+        "text": "Impacientes",
+        "option_uuid": "c060f1a4"
+      },
+      "correct": {
+        "text": "Abusivos",
+        "option_uuid": "86421247"
+      },
+      "wrong3": {
+        "text": "Poco educados",
+        "option_uuid": "3446f81e"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "Cuando llevo prisa:",
+    "options": {
+      "wrong1": {
+        "text": "Me pongo de mal humor con las actuaciones de los gestores de tráfico",
+        "option_uuid": "9b24947a"
+      },
+      "wrong2": {
+        "text": "Me pongo nervioso e impaciente al ver los semáforos",
+        "option_uuid": "1ce6a144"
+      },
+      "wrong3": {
+        "text": "No presto demasiada atención a la señalización",
+        "option_uuid": "98e0e1c2"
+      },
+      "correct": {
+        "text": "No suele sucederme nada de lo anterior",
+        "option_uuid": "18a8405d"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "Va entrar por una calle única, pero otro vehículo viene por ella haciendo caso omiso de paso prohibido",
+    "options": {
+      "wrong1": {
+        "text": "Le advierte su error",
+        "option_uuid": "9a812d8f"
+      },
+      "wrong2": {
+        "text": "Lo hace retroceder",
+        "option_uuid": "53214f61"
+      },
+      "correct": {
+        "text": "Lo deja pasar",
+        "option_uuid": "3ec58359"
+      },
+      "wrong3": {
+        "text": "Le llama la atención y lo hace retroceder",
+        "option_uuid": "1595bf3e"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "Me muestro imperturbable y tranquilo:",
+    "options": {
+      "wrong1": {
+        "text": "Cuando se me queda el vehículo y me pitan los de atrás",
+        "option_uuid": "63b874d5"
+      },
+      "wrong2": {
+        "text": "Ante otros conductores que me llaman la atención",
+        "option_uuid": "6d1cf8ef"
+      },
+      "correct": {
+        "text": "Ante peatones ociosos e imprudentes",
+        "option_uuid": "b7b9de48"
+      },
+      "wrong3": {
+        "text": "Con los acompañantes que me advierten de las reglas de circulación víal",
+        "option_uuid": "bc08ba65"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "title": "Conduciendo en zona urbana con la velocidad limitada, va conduciendo por encima de lo indicado, un agente de tránsito lo detiene",
+    "options": {
+      "correct": {
+        "text": "Acepta la sansión sin oponerse",
+        "option_uuid": "78632a0a"
+      },
+      "wrong1": {
+        "text": "Discute su actuación",
+        "option_uuid": "b82ec0ef"
+      },
+      "wrong2": {
+        "text": "No hace caso de la multa",
+        "option_uuid": "72aa532c"
+      },
+      "wrong3": {
+        "text": "Se disculpa e intenta convencerle que no lo sancione",
+        "option_uuid": "9365b983"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "title": "Intenta parquearse en el lugar que acaba de quedar libre, pero otro automovilista más listo se adelanta:",
+    "options": {
+      "wrong1": {
+        "text": "Atraviesa su vehículo y discute del asunto",
+        "option_uuid": "4ede5afa"
+      },
+      "wrong2": {
+        "text": "Reacciona airadamente y toca la bocina",
+        "option_uuid": "da4a8666"
+      },
+      "correct": {
+        "text": "Busca sin más otro parqueo",
+        "option_uuid": "8dce7fb2"
+      },
+      "wrong3": {
+        "text": "Trata de indicarle que usted ha llegado antes y se va a parquear",
+        "option_uuid": "b17bec7e"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "title": "Otro conductor hace que usted cometa una infracción evasiva o cometa una infracción y no le pide disculpas:",
+    "options": {
+      "wrong1": {
+        "text": "Se enoja mucho e insulta aunque le oiga",
+        "option_uuid": "4032d5d5"
+      },
+      "correct": {
+        "text": "Se resigna sin más",
+        "option_uuid": "6e8d0d48"
+      },
+      "wrong2": {
+        "text": "Trata de alcanzarlo y acelerar",
+        "option_uuid": "d5938aa5"
+      },
+      "wrong3": {
+        "text": "Procura anotar su número de placa y denunciarlo",
+        "option_uuid": "8810b975"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "title": "Al intentar salir encuentra un vehículo parqueado en doble fila, que le impide salir durante un buen rato:",
+    "options": {
+      "wrong1": {
+        "text": "Acepta sus disculpas",
+        "option_uuid": "24e647b6"
+      },
+      "wrong2": {
+        "text": "Ve al dueño y lo insulta",
+        "option_uuid": "1a794db2"
+      },
+      "wrong3": {
+        "text": "Se enoja mucho y toca la bocina",
+        "option_uuid": "b6b81d93"
+      },
+      "correct": {
+        "text": "Toca la bocina para avisar y espera un poco",
+        "option_uuid": "c8f2b324"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "title": "De noche, una vez que ha adelantado otro vehículo este mantiene las luces largas un buen rato:",
+    "options": {
+      "correct": {
+        "text": "Le hace señales para que se dé cuenta que lleva las luces largas",
+        "option_uuid": "5f4619a4"
+      },
+      "wrong1": {
+        "text": "Frena para que se dé cuenta que le están molestando las luces",
+        "option_uuid": "9c004676"
+      },
+      "wrong2": {
+        "text": "Le deja pasar y hace lo mismo que él",
+        "option_uuid": "603fe074"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "title": "Por la mañana debido a la densidad urbana no puede llegar puntual a su destino:",
+    "options": {
+      "wrong1": {
+        "text": "Se enfurece y toca la bocina",
+        "option_uuid": "1f52a4d9"
+      },
+      "correct": {
+        "text": "Simplemente espera y cambia la ruta",
+        "option_uuid": "9dbd57ab"
+      },
+      "wrong2": {
+        "text": "Si lleva mucha prisa busca una solución y deja el vehículo estacionado",
+        "option_uuid": "3836b6a2"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "title": "Deja su vehículo parqueado en una zona prohibida, al regresar se encuentra con un agente multándolo:",
+    "options": {
+      "correct": {
+        "text": "Paga la multa y procura parquearse mejor otro día",
+        "option_uuid": "1258c07d"
+      },
+      "wrong1": {
+        "text": "Se niega rotundamente a pagar la multa",
+        "option_uuid": "3908058d"
+      },
+      "wrong2": {
+        "text": "Intenta convencer al agente que su error fue involuntario",
+        "option_uuid": "454e4cdf"
+      },
+      "wrong3": {
+        "text": "Le llama la atención al agente y no le hace caso",
+        "option_uuid": "6f23b5bb"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "title": "Se encuentra en una intersección con señal ceda el paso y tráfico lento:",
+    "options": {
+      "wrong1": {
+        "text": "Pasa si cree que no hay peligro",
+        "option_uuid": "64eb2f6d"
+      },
+      "wrong2": {
+        "text": "Si tiene prisa no se detiene",
+        "option_uuid": "836cd3a4"
+      },
+      "correct": {
+        "text": "Cede el paso con paciencia",
+        "option_uuid": "82963e32"
+      },
+      "wrong3": {
+        "text": "Se incorpora rápidamente sin parar",
+        "option_uuid": "87ffc5c8"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "title": "El conductor se va adelante, da un frenazo bruscamente y usted se empotra en la parte trasera sin que pueda evitarlo",
+    "options": {
+      "correct": {
+        "text": "Dialoga sobre el incidente",
+        "option_uuid": "eedeca84"
+      },
+      "wrong1": {
+        "text": "Discute y le hace saber su descontento",
+        "option_uuid": "0b137781"
+      },
+      "wrong2": {
+        "text": "Reconoce su distracción y acepta sus reclamos",
+        "option_uuid": "1e204991"
+      },
+      "wrong3": {
+        "text": "Reclama la acción del otro usuario",
+        "option_uuid": "9c351510"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "title": "Se encuentra con una interrupción de tráfico, no obstante ve como algunos automovilistas se cuelan por el hombro de la vía:",
+    "options": {
+      "wrong1": {
+        "text": "Los critica, les reclama y si es posible obstaculiza su paso",
+        "option_uuid": "f6e8065f"
+      },
+      "wrong2": {
+        "text": "Si otros pasan usted los sigue",
+        "option_uuid": "70dbdab9"
+      },
+      "correct": {
+        "text": "Espera tranquilamente",
+        "option_uuid": "c8d2b48d"
+      },
+      "wrong3": {
+        "text": "Si lleva prisa procura buscar una salida",
+        "option_uuid": "385b79cc"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "title": "En caravana usted y otros conductores han cedido el paso a una ambulancia sin embargo otros que vienen detrás aprovechan la ocasión y obstaculizan para incorporarse al carril:",
+    "options": {
+      "correct": {
+        "text": "Los deja que pasen",
+        "option_uuid": "a21a8130"
+      },
+      "wrong1": {
+        "text": "Se enoja con ellos y critica su actuación",
+        "option_uuid": "3b440627"
+      },
+      "wrong2": {
+        "text": "Se atraviesa haciéndolos frenar bruscamente",
+        "option_uuid": "9fee7cc4"
+      },
+      "wrong3": {
+        "text": "Les avisa para que le dejen incorporar al tráfico",
+        "option_uuid": "ccc07811"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "title": "Conduciendo en caravana detrás de un vehículo lento, al intentar adelantarlo otros vehículos se le adelantan, le impiden el paso e incluso le pitan:",
+    "options": {
+      "wrong1": {
+        "text": "Pita y reclama la acción de los otros conductores",
+        "option_uuid": "f9df565c"
+      },
+      "wrong2": {
+        "text": "Adelanta, pase lo que pase",
+        "option_uuid": "0d144cd2"
+      },
+      "correct": {
+        "text": "Deja que adelanten y se vayan",
+        "option_uuid": "9a6ee39b"
+      },
+      "wrong3": {
+        "text": "Se aguanta vuelve a intentarlo de nuevo",
+        "option_uuid": "e0e644ff"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "title": "Conduciendo por el carril central de una carretera de doble vía a una velocidad reglamentaria otros automovilistas se dan reiteradamente señales de luces para que se tire a su lado:",
+    "options": {
+      "wrong1": {
+        "text": "Pide disculpas y se pasa al otro lado",
+        "option_uuid": "70c1b95b"
+      },
+      "wrong2": {
+        "text": "Continua sin importar la presencia del otro conductor",
+        "option_uuid": "40c9934e"
+      },
+      "wrong3": {
+        "text": "Reacciona con agresividad y le indica si tiene prisa adelantarse por el otro carril",
+        "option_uuid": "56eecb65"
+      },
+      "correct": {
+        "text": "Se retira al otro carril",
+        "option_uuid": "74304834"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "title": "Va manejando tranquilamente por la carretera, otro vehículo lo sobrepasa y se incorpora bruscamenta a su carril, ocasionándole que usted frene bruscamente:",
+    "options": {
+      "wrong1": {
+        "text": "Se baja y lo insulta",
+        "option_uuid": "fddca267"
+      },
+      "wrong2": {
+        "text": "Le insulta aunque no lo escuche",
+        "option_uuid": "b350e8c7"
+      },
+      "correct": {
+        "text": "Le deja que se vaya tranquilamente",
+        "option_uuid": "c751ceb1"
+      },
+      "wrong3": {
+        "text": "Anota su número de placa y lo denuncia",
+        "option_uuid": "63f8cb39"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "title": "Manejando por la ciudad un vehículo le sobrepasa y se sitúa por delante de usted y se detiene bruscamente, usted intenta detenerse pero le es imposible y colaciona en la parte de atrás del vehículo temerario",
+    "options": {
+      "correct": {
+        "text": "Se baja y dialoga sobre el tema",
+        "option_uuid": "41a4a949"
+      },
+      "wrong1": {
+        "text": "Se baja y trata de intimidarlo",
+        "option_uuid": "134252c3"
+      },
+      "wrong2": {
+        "text": "Se baja y le hace ver su error que él es el responsable",
+        "option_uuid": "30f99d52"
+      },
+      "wrong3": {
+        "text": "Le insulta y agrede físicamente",
+        "option_uuid": "e04d0bb7"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "title": "Me muestro intolerable con:",
+    "options": {
+      "wrong1": {
+        "text": "Los peatones que no respetan las señales prohibido el paso peatonal",
+        "option_uuid": "5e4dff2c"
+      },
+      "correct": {
+        "text": "Los motoristas que incumplen el reglamento general de tránsito",
+        "option_uuid": "5d37bdb8"
+      },
+      "wrong2": {
+        "text": "La tardanza en controles vehiculares sin razón",
+        "option_uuid": "79e982a8"
+      },
+      "wrong3": {
+        "text": "Los conductores temerarios",
+        "option_uuid": "5698ce90"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "title": "En un viaje familiar, alguien de su familia le hace observaciones continuamente sobre su forma de manejar:",
+    "options": {
+      "wrong1": {
+        "text": "No antiende e ignora sus observaciones",
+        "option_uuid": "dec1fe14"
+      },
+      "correct": {
+        "text": "Toma en cuenta algunas de sus observaciones",
+        "option_uuid": "8cf5a3bc"
+      },
+      "wrong2": {
+        "text": "Le mando a callar que no siga molestando",
+        "option_uuid": "79c88896"
+      },
+      "wrong3": {
+        "text": "No presto atención a nada",
+        "option_uuid": "ad9700fa"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "title": "Manejando en la carretera un vehículo que viene en el carril contrario no cambia a luz corta:",
+    "options": {
+      "wrong1": {
+        "text": "Si persiste hago lo mismo",
+        "option_uuid": "01d8c8f8"
+      },
+      "wrong2": {
+        "text": "Le indico de alguna manera que haga el cambio de luz",
+        "option_uuid": "0be77feb"
+      },
+      "correct": {
+        "text": "Reduzco la velocidad y espero que pase",
+        "option_uuid": "ee8861b4"
+      },
+      "wrong3": {
+        "text": "Le insulto al pasar de lado",
+        "option_uuid": "c4551bc7"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "title": "Manejando en la carretera en el congestionamiento se habre el espacio para que pase una ambulancia, aprovechando la oportunidad otros automovilistas se incorporan a esa vía rápidamente para pasar:",
+    "options": {
+      "wrong1": {
+        "text": "Cruzo el carro para que no pasen más",
+        "option_uuid": "888ddfbc"
+      },
+      "wrong2": {
+        "text": "Les pido que me dejen incorporarme a mi también",
+        "option_uuid": "a3331f73"
+      },
+      "wrong3": {
+        "text": "Me incorporo bruscamente",
+        "option_uuid": "84632050"
+      },
+      "correct": {
+        "text": "Les dejo pasar sin más",
+        "option_uuid": "25ad7cea"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "title": "Si un agente de tránsito lo detiene ¿Qué hicieras?",
+    "options": {
+      "wrong1": {
+        "text": "Te vas sin hacer el alto",
+        "option_uuid": "fd0b3262"
+      },
+      "correct": {
+        "text": "Te detienes a dialogar",
+        "option_uuid": "bead8d62"
+      },
+      "wrong2": {
+        "text": "Peleas con él",
+        "option_uuid": "c1e04155"
+      },
+      "wrong3": {
+        "text": "Aceptas la esquelas",
+        "option_uuid": "9d4ba89f"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "title": "Si va peleando con otro conductor en la carretera o hace una maniobra brusca:",
+    "options": {
+      "wrong1": {
+        "text": "Reacciona agresivamente",
+        "option_uuid": "f49a16f3"
+      },
+      "wrong2": {
+        "text": "Pedir una explicación",
+        "option_uuid": "33220eaa"
+      },
+      "correct": {
+        "text": "Se detiene y se incorpora tranquilamente en su carril ya que puede colicionar",
+        "option_uuid": "bca0dd29"
+      },
+      "wrong3": {
+        "text": "Se pasa llevando a los motociclistas",
+        "option_uuid": "559bc305"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "title": "Conduciendo de noche otro vehículo que viene en sentido contrario lo deslumbra y usted le avisa de ello pero él no se da enterado:",
+    "options": {
+      "correct": {
+        "text": "Disminuye la velocidad y maneja despacio",
+        "option_uuid": "4a37a341"
+      },
+      "wrong1": {
+        "text": "Si persiste hace lo mismo que él",
+        "option_uuid": "5abedf3c"
+      },
+      "wrong2": {
+        "text": "Le avisa de su diligencia",
+        "option_uuid": "12a0f15c"
+      },
+      "wrong3": {
+        "text": "Le insulta y cambia las luces",
+        "option_uuid": "40645d11"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "title": "En días lluviosos la calle tiene un charco, usted pasa en ellos y moja a los peatones que pasan por la acera:",
+    "options": {
+      "wrong1": {
+        "text": "Se burla de ellos",
+        "option_uuid": "8ed6877d"
+      },
+      "wrong2": {
+        "text": "Se disculpa de cualquier forma",
+        "option_uuid": "52723ead"
+      },
+      "wrong3": {
+        "text": "Se retira sin decir nada",
+        "option_uuid": "61e4fece"
+      },
+      "correct": {
+        "text": "Procura no volver a hacerlo",
+        "option_uuid": "f61faf83"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "title": "En una carretera con carril lento se encuentra un camión que no hace uso de dicho carril obstruyéndole el paso:",
+    "options": {
+      "correct": {
+        "text": "Espera pacientemente",
+        "option_uuid": "1d953fa6"
+      },
+      "wrong1": {
+        "text": "Le indica que se retire para el carril de vehículos lentos",
+        "option_uuid": "37153922"
+      },
+      "wrong2": {
+        "text": "Le reclama con gestos y palabras",
+        "option_uuid": "f0a7c222"
+      },
+      "wrong3": {
+        "text": "Le adelanta sin más",
+        "option_uuid": "fdf291a6"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "title": "Tiendo a arriesgarme habitualmente:",
+    "options": {
+      "wrong1": {
+        "text": "Cuando hay mala visibilidad",
+        "option_uuid": "ef40b31c"
+      },
+      "correct": {
+        "text": "En ninguna de estas circunstancias",
+        "option_uuid": "bba520ad"
+      },
+      "wrong2": {
+        "text": "En los levantamientos",
+        "option_uuid": "d9fb4fed"
+      },
+      "wrong3": {
+        "text": "Al tomar curvas",
+        "option_uuid": "a18d3ecd"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "title": "Se encuentra en una intersección con señal de \"Ceda el paso y Tráfico lento\":",
+    "options": {
+      "wrong1": {
+        "text": "Pasa si cree que no hay peligro",
+        "option_uuid": "582301d2"
+      },
+      "wrong2": {
+        "text": "Si tiene prisa no se detiene",
+        "option_uuid": "8b65bdb9"
+      },
+      "correct": {
+        "text": "Cede el paso con paciencia",
+        "option_uuid": "04bcf976"
+      },
+      "wrong3": {
+        "text": "Se incorpora rápidanente sin parar",
+        "option_uuid": "1afd10c4"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "title": "Critico y reclamo sin piedad la actuación de los conductores:",
+    "options": {
+      "wrong1": {
+        "text": "Principiantes o inexpertos",
+        "option_uuid": "681c262a"
+      },
+      "wrong2": {
+        "text": "Impacientes",
+        "option_uuid": "cbcf1c88"
+      },
+      "correct": {
+        "text": "Abusivos",
+        "option_uuid": "b7f1a0ff"
+      },
+      "wrong3": {
+        "text": "Poco educados",
+        "option_uuid": "014b5cc3"
+      }
+    }
+  }
+]
