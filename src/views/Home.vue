@@ -34,6 +34,6 @@ export default {
             <br>
             <br>
         </div>
-        <p class="text-center mt-4"><span>&#9432;</span> Las preguntas aún no están adaptadas a la nueva reforma de la Ley de Transporte Terrestre, Tránsito y Seguridad Vial aprobada por la Asamble Legislativa el 25 de enero de 2023.</p>
+        <p class="text-center mt-4"><span>&#9432;</span> Las preguntas aún no están adaptadas a la nueva reforma de la Ley de Transporte Terrestre, Tránsito y Seguridad Vial aprobada por la Asamblea Legislativa el 25 de enero de 2023.</p>
     </div>
 </template>
