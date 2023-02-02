@@ -13,7 +13,7 @@ export default {
             <h2 class="h2 fs-5 text-center subtitle">Elige el examen que quieres practicar</h2>
         </div>
     </div>
-    <div class="d-flex justify-content-center selector">
+    <div class="d-flex flex-column justify-content-center selector">
         <div class="select-container">
             <router-link class="theoric select m-3" to="/driving-test-sv/teorico">
                 <img src="../assets/images/theoretical-select-image.webp" alt="Teorico">
@@ -34,5 +34,6 @@ export default {
             <br>
             <br>
         </div>
+        <p class="text-center mt-4"><span>&#9432;</span> Las preguntas aún no están adaptadas a la nueva reforma de la Ley de Transporte Terrestre, Tránsito y Seguridad Vial aprobada por la Asamble Legislativa el 25 de enero de 2023.</p>
     </div>
 </template>
